@@ -13,4 +13,5 @@ A simple blockchain written from scratch in the rust programming language. This 
 - Make sure to have rust and nodejs installed.
 - Clone the repo
 - `cd` into the `night_protocol` folder and run `cargo run`
-- open another terminal instance and  `cd` into the `client` fo
+- open another terminal instance and  `cd` into the `client` folder and run `yarn && yarn run dev`
+- Alternatively, you can only run the rust server and visit https://night-protocol.netlify.app to se
