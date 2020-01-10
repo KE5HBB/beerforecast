@@ -6,4 +6,9 @@ A simple blockchain written from scratch in the rust programming language. This 
 
 ## Stack
 - Rust and rocket.rs as chain and backend
-- Nextjs and manti
+- Nextjs and mantine for client
+- MDX for documentation
+
+## How to start the project
+- Make sure to have rust and nodejs installed.
+- Clone the r
