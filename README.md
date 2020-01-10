@@ -11,4 +11,6 @@ A simple blockchain written from scratch in the rust programming language. This 
 
 ## How to start the project
 - Make sure to have rust and nodejs installed.
-- Clone the r
+- Clone the repo
+- `cd` into the `night_protocol` folder and run `cargo run`
+- open another terminal instance and  `cd` into the `client` fo
