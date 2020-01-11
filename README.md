@@ -18,4 +18,4 @@ A simple blockchain written from scratch in the rust programming language. This 
 
 ## How it works
 
-It has 2 chains for now, the transaction chain and the master chain. When there are more than 100 blocks
+It has 2 chains for now, the transaction chain and the master chain. When there are more than 100 blocks in the transaction chain, all of them are compressed and sent to a block in the master chain. I implemented this algorithm to make the
