@@ -4,4 +4,11 @@ const withMDX = require("@next/mdx")({
     remarkPlugins: [],
     rehypePlugins: [],
     // If you use `MDXProvider`, uncomment the following line.
-    // p
+    // providerImportSource: "@mdx-js/react",
+  },
+});
+/**
+ * @type {import('next').NextConfig}
+ */
+module.exports = withMDX({
+  p
