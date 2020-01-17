@@ -15,4 +15,6 @@ module.exports = withMDX({
   reactStrictMode:true,
   images: {
     loader: 'akamai',
-    pa
+    path: '',
+  },
+});
