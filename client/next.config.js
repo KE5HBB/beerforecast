@@ -11,4 +11,8 @@ const withMDX = require("@next/mdx")({
  * @type {import('next').NextConfig}
  */
 module.exports = withMDX({
-  p
+  pageExtensions: ["ts", "tsx", "js", "jsx", "md", "mdx"],
+  reactStrictMode:true,
+  images: {
+    loader: 'akamai',
+    pa
