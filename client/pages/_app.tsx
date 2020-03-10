@@ -4,4 +4,8 @@ import { MantineProvider } from "@mantine/core";
 import { NotificationsProvider } from "@mantine/notifications";
 function MyApp({ Component, pageProps }: AppProps) {
   return (
-    <MantineProvider theme={{ colorScheme: "dark" }} 
+    <MantineProvider theme={{ colorScheme: "dark" }} withGlobalStyles>
+      <NotificationsProvider>
+        <Component {...pageProps} />
+      </NotificationsProvider>
+    </Mantin
