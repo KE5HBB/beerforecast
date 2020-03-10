@@ -42,3 +42,122 @@ const GambleForm = ({
           showNotification({
             message: "You lost",
             color: "red",
+          });
+        }
+        setBalance(res.newBalance);
+      }
+    } else {
+      showNotification({
+        message: "Invalid Amount",
+        color: "red",
+      });
+    }
+    setTransactionEvent(transactionEvent + 1);
+  };
+  return (
+    <>
+      <Title className={styles.text} order={3}>
+        Balance: {balance.toString()}
+      </Title>
+      <br />
+      <TextInput
+        placeholder="Amount"
+        label="Gamble with Night Coins"
+        value={value}
+        onChange={(e) => setVal(e.currentTarget.value)}
+        required
+      />
+      <br />
+      <Button
+        onClick={gamble}
+        className={styles.text}
+        variant="gradient"
+        gradient={{ from: "teal", to: "blue", deg: 60 }}
+      >
+        Gamble
+      </Button>
+    </>
+  );
+};
+const TransactionComponent = ({ transactionEvent }: { transactionEvent: number }) => {
+  let [dataLength, setDataLength] = useState(0);
+  let [page, setPage] = useState(0);
+  let [transactions, setTransaction] = useState<Block[]>([]);
+  useEffect(() => {
+    getDataLength();
+  }, [transactionEvent]);
+  useEffect(() => {
+    getTransactions();
+  }, [page, transactionEvent]);
+  const getTransactions = async () => {
+    if (page == 1 || page == 0) {
+      let elements: Block[] = await Service.getTransactions(1);
+      setTransaction(elements);
+    } else {
+      let elements: Block[] = await Service.getTransactions(
+        dataLength - page + 2
+      );
+      setTransaction(elements);
+    }
+  };
+  const getDataLength = async () => {
+    let dataLength = await Service.countDataLength();
+    setDataLength(dataLength);
+  };
+  return (
+    <div>
+      <h1 style={{ marginTop: 5 + `rem` }} className={styles.text}>
+        Transactions
+      </h1>
+      <Table className={styles.text}>
+        <thead>
+          <tr>
+            <th>Hash</th>
+            <th>Sender</th>
+            <th>Reciever</th>
+            <th>Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+          {transactions.map(element => {
+            return (
+              <tr key={element.id.toString()}>
+                <td>{element.block_hash.substring(0, 8).toLocaleUpperCase()}</td>
+                <td>{element.transaction.sender}</td>
+                <td>{element.transaction.reciever}</td>
+                <td>${element.transaction.amount.toString()}</td>
+              </tr>
+            )
+          })}
+        </tbody>
+      </Table>
+      <br />
+      <br />
+      <Center>
+        <Pagination
+          onChange={setPage}
+          total={dataLength}
+          siblings={1}
+          initialPage={1}
+        />
+      </Center>
+      <br />
+    </div>
+  );
+};
+const Dashboard: NextPage = () => {
+  const [transactionEvent, setTransactionEvent] = useState(0);
+
+  return (
+    <Center>
+      <div className={styles.container}>
+        <Container>
+          <h1 className={styles.heading}>Dashboard</h1>
+          <GambleForm {...{ setTransactionEvent, transactionEvent }} />
+          <TransactionComponent {...{ transactionEvent }} />
+        </Container>
+      </div>
+    </Center>
+  );
+};
+export default Dashboard;
