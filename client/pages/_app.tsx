@@ -8,4 +8,8 @@ function MyApp({ Component, pageProps }: AppProps) {
       <NotificationsProvider>
         <Component {...pageProps} />
       </NotificationsProvider>
-    </Mantin
+    </MantineProvider>
+  );
+}
+
+export default MyApp;
