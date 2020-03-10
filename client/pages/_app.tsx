@@ -1,4 +1,7 @@
 import "../styles/globals.css";
 import type { AppProps } from "next/app";
 import { MantineProvider } from "@mantine/core";
-import { NotificationsProvider } from "@manti
+import { NotificationsProvider } from "@mantine/notifications";
+function MyApp({ Component, pageProps }: AppProps) {
+  return (
+    <MantineProvider theme={{ colorScheme: "dark" }} 
