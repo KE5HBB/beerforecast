@@ -8,4 +8,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>
+        <title>Night Protocol</title>
+        <meta
+          name="description"
+          content="A minimal blockchain protocol written in Rust for begin
