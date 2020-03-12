@@ -11,4 +11,6 @@ const Home: NextPage = () => {
         <title>Night Protocol</title>
         <meta
           name="description"
-          content="A minimal blockchain protocol written in Rust for begin
+          content="A minimal blockchain protocol written in Rust for beginners to understand the modern infrastructure of blockchain."
+        />
+        <meta property="og:title" content="Night Protocol" />
