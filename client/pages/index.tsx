@@ -19,4 +19,7 @@ const Home: NextPage = () => {
           content="A minimal blockchain protocol written in Rust for beginners to understand the modern infrastructure of blockchain."
         />
       </Head>
-      <div classNam
+      <div className={styles.top_container}>
+        <div>
+          <h1 className={styles.heading}>Night Protocol</h1>
+          <p className={styles.d
