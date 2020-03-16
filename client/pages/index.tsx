@@ -24,4 +24,8 @@ const Home: NextPage = () => {
           <h1 className={styles.heading}>Night Protocol</h1>
           <p className={styles.description}>
             A minimal blockchain protocol written in Rust for beginners to
-            understand <br /> the mod
+            understand <br /> the modern infrastructure of blockchain.
+          </p>
+          <Link href="/explore">
+            <Button
+      
