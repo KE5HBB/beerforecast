@@ -22,4 +22,6 @@ const Home: NextPage = () => {
       <div className={styles.top_container}>
         <div>
           <h1 className={styles.heading}>Night Protocol</h1>
-          <p className={styles.d
+          <p className={styles.description}>
+            A minimal blockchain protocol written in Rust for beginners to
+            understand <br /> the mod
