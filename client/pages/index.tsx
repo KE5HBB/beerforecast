@@ -28,4 +28,7 @@ const Home: NextPage = () => {
           </p>
           <Link href="/explore">
             <Button
-      
+              size="lg"
+              className={styles.text}
+              variant="gradient"
+              gradient={{ from: "o
