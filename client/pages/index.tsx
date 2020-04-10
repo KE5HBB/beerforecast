@@ -31,4 +31,10 @@ const Home: NextPage = () => {
               size="lg"
               className={styles.text}
               variant="gradient"
-              gradient={{ from: "o
+              gradient={{ from: "orange", to: "red" }}
+            >
+              Explore
+            </Button>
+          </Link>
+
+          <Link href="
