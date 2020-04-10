@@ -37,4 +37,8 @@ const Home: NextPage = () => {
             </Button>
           </Link>
 
-          <Link href="
+          <Link href="/dashboard">
+            <Button
+            style={{marginLeft: 1+'rem'}}
+              size="lg"
+              clas
