@@ -41,4 +41,7 @@ const Home: NextPage = () => {
             <Button
             style={{marginLeft: 1+'rem'}}
               size="lg"
-              clas
+              className={styles.text}
+              variant="gradient"
+              gradient={{ from: "orange", to: "red" }}
+           
