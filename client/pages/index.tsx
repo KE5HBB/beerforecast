@@ -44,4 +44,12 @@ const Home: NextPage = () => {
               className={styles.text}
               variant="gradient"
               gradient={{ from: "orange", to: "red" }}
-           
+            >
+              Dashboard
+            </Button>
+          </Link>
+        </div>
+
+        <Particles
+          params={{
+         
