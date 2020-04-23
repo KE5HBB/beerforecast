@@ -52,4 +52,9 @@ const Home: NextPage = () => {
 
         <Particles
           params={{
-         
+            particles: {
+              number: {
+                value: 140,
+                density: {
+                  enable: true,
+   
