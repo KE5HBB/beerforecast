@@ -57,4 +57,9 @@ const Home: NextPage = () => {
                 value: 140,
                 density: {
                   enable: true,
-   
+                  value_area: 1500,
+                },
+              },
+              line_linked: {
+                enable: true,
+ 
