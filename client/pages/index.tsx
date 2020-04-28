@@ -62,4 +62,8 @@ const Home: NextPage = () => {
               },
               line_linked: {
                 enable: true,
- 
+                opacity: 0.02,
+              },
+              move: {
+                direction: "right",
+                speed:
