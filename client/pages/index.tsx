@@ -66,4 +66,11 @@ const Home: NextPage = () => {
               },
               move: {
                 direction: "right",
-                speed:
+                speed: 2,
+              },
+              size: {
+                value: 2,
+              },
+              opacity: {
+                anim: {
+  
