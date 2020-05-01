@@ -73,4 +73,9 @@ const Home: NextPage = () => {
               },
               opacity: {
                 anim: {
-  
+                  enable: true,
+                  speed: 1,
+                  opacity_min: 0.05,
+                },
+              },
+        
