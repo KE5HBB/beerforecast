@@ -78,4 +78,9 @@ const Home: NextPage = () => {
                   opacity_min: 0.05,
                 },
               },
-        
+            },
+            interactivity: {
+              events: {
+                onclick: {
+                  enable: false,
+             
