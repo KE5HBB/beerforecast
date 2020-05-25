@@ -83,4 +83,9 @@ const Home: NextPage = () => {
               events: {
                 onclick: {
                   enable: false,
-             
+                },
+              },
+              modes: {
+                push: {
+                  particles_nb: 1,
+                },
