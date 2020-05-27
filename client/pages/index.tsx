@@ -89,3 +89,14 @@ const Home: NextPage = () => {
                 push: {
                   particles_nb: 1,
                 },
+              },
+            },
+            retina_detect: true,
+          }}
+        />
+      </div>
+    </>
+  );
+};
+
+export 
