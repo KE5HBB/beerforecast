@@ -14,4 +14,8 @@
   width: 50%;
 }
 
-@media all 
+@media all and (max-width: 800px) {
+  .container {
+    width: 80%;
+  }
+}
