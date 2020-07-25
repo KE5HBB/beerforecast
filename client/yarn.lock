@@ -15,4 +15,5 @@
     "@babel/types" "^7.16.7"
 
 "@babel/helper-plugin-utils@^7.16.7":
- 
+  version "7.16.7"
+  resolved "https://registry.npmjs.org/@babel/helper-plugin-utils/-/helper-plugin-utils-7.16.7.tgz"
