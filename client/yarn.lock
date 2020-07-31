@@ -34,4 +34,8 @@
   version "7.16.7"
   resolved "https://registry.npmjs.org/@babel/plugin-syntax-jsx/-/plugin-syntax-jsx-7.16.7.tgz"
   dependencies:
-    "@babel/helper-plugin-utils" "^7.1
+    "@babel/helper-plugin-utils" "^7.16.7"
+
+"@babel/runtime-corejs3@^7.10.2":
+  version "7.17.9"
+  resolved "https://registry.npmjs.org/@babel/runtime-corejs3/-/r
