@@ -32,4 +32,6 @@
 
 "@babel/plugin-syntax-jsx@^7.12.13":
   version "7.16.7"
-  resolve
+  resolved "https://registry.npmjs.org/@babel/plugin-syntax-jsx/-/plugin-syntax-jsx-7.16.7.tgz"
+  dependencies:
+    "@babel/helper-plugin-utils" "^7.1
