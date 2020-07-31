@@ -38,4 +38,9 @@
 
 "@babel/runtime-corejs3@^7.10.2":
   version "7.17.9"
-  resolved "https://registry.npmjs.org/@babel/runtime-corejs3/-/r
+  resolved "https://registry.npmjs.org/@babel/runtime-corejs3/-/runtime-corejs3-7.17.9.tgz"
+  dependencies:
+    core-js-pure "^3.20.2"
+    regenerator-runtime "^0.13.4"
+
+"
