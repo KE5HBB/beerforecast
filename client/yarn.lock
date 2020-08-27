@@ -73,4 +73,7 @@
     source-map "^0.5.7"
     stylis "4.0.13"
 
-"@em
+"@emotion/cache@^11.7.1":
+  version "11.7.1"
+  resolved "https://registry.npmjs.org/@emotion/cache/-/cache-11.7.1.tgz"
+  dep
