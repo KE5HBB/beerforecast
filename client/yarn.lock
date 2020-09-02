@@ -76,4 +76,8 @@
 "@emotion/cache@^11.7.1":
   version "11.7.1"
   resolved "https://registry.npmjs.org/@emotion/cache/-/cache-11.7.1.tgz"
-  dep
+  dependencies:
+    "@emotion/memoize" "^0.7.4"
+    "@emotion/sheet" "^1.1.0"
+    "@emotion/utils" "^1.0.0"
+    "@emotion/
