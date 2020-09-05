@@ -93,4 +93,7 @@
 
 "@emotion/react@^11.7.1":
   version "11.9.0"
-  resolved "https://registry.n
+  resolved "https://registry.npmjs.org/@emotion/react/-/react-11.9.0.tgz"
+  dependencies:
+    "@babel/runtime" "^7.13.10"
+    "@emotion/babel
