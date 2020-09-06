@@ -96,4 +96,8 @@
   resolved "https://registry.npmjs.org/@emotion/react/-/react-11.9.0.tgz"
   dependencies:
     "@babel/runtime" "^7.13.10"
-    "@emotion/babel
+    "@emotion/babel-plugin" "^11.7.1"
+    "@emotion/cache" "^11.7.1"
+    "@emotion/serialize" "^1.0.3"
+    "@emotion/utils" "^1.1.0"
+    "@emotion/weak-mem
