@@ -104,4 +104,7 @@
     hoist-non-react-statics "^3.3.1"
 
 "@emotion/serialize@^1.0.2", "@emotion/serialize@^1.0.3":
-  
+  version "1.0.3"
+  resolved "https://registry.npmjs.org/@emotion/serialize/-/serialize-1.0.3.tgz"
+  dependencies:
+    "@
