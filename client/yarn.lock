@@ -120,4 +120,8 @@
     "@emotion/utils" "^1.0.0"
     html-tokenize "^2.0.0"
     multipipe "^1.0.2"
-    through "^2.3
+    through "^2.3.8"
+
+"@emotion/sheet@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.npmjs.org/@emotion/sheet/-/sheet-1.1.0.
