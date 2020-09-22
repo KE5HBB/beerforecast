@@ -113,4 +113,6 @@
     "@emotion/utils" "^1.0.0"
     csstype "^3.0.2"
 
-"@e
+"@emotion/server@^11.4.0":
+  version "11.4.0"
+  resolved "https://registry.npmjs.org/@emotion/server/-/server
