@@ -190,4 +190,10 @@
 
 "@mantine/notifications@^4.1.3":
   version "4.1.3"
-  resolved "https://registry.npmjs.org/@mantine/notifications/-/notificat
+  resolved "https://registry.npmjs.org/@mantine/notifications/-/notifications-4.1.3.tgz"
+  dependencies:
+    react-transition-group "^4.4.2"
+
+"@mantine/ssr@4.1.3":
+  version "4.1.3"
+  
