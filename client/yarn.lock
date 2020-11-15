@@ -196,4 +196,7 @@
 
 "@mantine/ssr@4.1.3":
   version "4.1.3"
-  
+  resolved "https://registry.npmjs.org/@mantine/ssr/-/ssr-4.1.3.tgz"
+  dependencies:
+    "@emotion/cache" "^11.7.1"
+    "@emotion/react" 
