@@ -172,4 +172,8 @@
     "@popperjs/core" "^2.9.3"
     "@radix-ui/react-scroll-area" "^0.1.1"
     react-popper "^2.2.5"
-    react-text
+    react-textarea-autosize "^8.3.2"
+
+"@mantine/form@^4.1.3":
+  version "4.1.3"
+  resolved "https://registry.npmjs.org/@mantine/form/-/form-4.1.3.t
