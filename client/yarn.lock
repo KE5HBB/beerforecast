@@ -209,4 +209,7 @@
 
 "@mantine/styles@4.1.3":
   version "4.1.3"
-  resolved "https
+  resolved "https://registry.npmjs.org/@mantine/styles/-/styles-4.1.3.tgz"
+  dependencies:
+    "@emotion/cache" "^11.7.1"
+    "@emotion/
