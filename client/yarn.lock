@@ -212,4 +212,10 @@
   resolved "https://registry.npmjs.org/@mantine/styles/-/styles-4.1.3.tgz"
   dependencies:
     "@emotion/cache" "^11.7.1"
-    "@emotion/
+    "@emotion/react" "^11.7.1"
+    "@emotion/serialize" "^1.0.2"
+    "@emotion/utils" "^1.0.0"
+    clsx "^1.1.1"
+    csstype "^3.0.9"
+
+"@mdx-js/loader@^2.1.1
