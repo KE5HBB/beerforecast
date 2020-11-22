@@ -218,4 +218,8 @@
     clsx "^1.1.1"
     csstype "^3.0.9"
 
-"@mdx-js/loader@^2.1.1
+"@mdx-js/loader@^2.1.1":
+  version "2.1.1"
+  resolved "https://registry.npmjs.org/@mdx-js/loader/-/loader-2.1.1.tgz"
+  dependencies:
+    "@mdx-js/mdx" "
