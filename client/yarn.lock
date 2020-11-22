@@ -227,4 +227,9 @@
 
 "@mdx-js/mdx@^2.0.0":
   version "2.1.1"
-  resolved "https://registry.npmjs.org/@mdx-
+  resolved "https://registry.npmjs.org/@mdx-js/mdx/-/mdx-2.1.1.tgz"
+  dependencies:
+    "@types/estree-jsx" "^0.0.1"
+    "@types/mdx" "^2.0.0"
+    astring "^1.6.0"
+    estr
