@@ -222,4 +222,9 @@
   version "2.1.1"
   resolved "https://registry.npmjs.org/@mdx-js/loader/-/loader-2.1.1.tgz"
   dependencies:
-    "@mdx-js/mdx" "
+    "@mdx-js/mdx" "^2.0.0"
+    source-map "^0.7.0"
+
+"@mdx-js/mdx@^2.0.0":
+  version "2.1.1"
+  resolved "https://registry.npmjs.org/@mdx-
