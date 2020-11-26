@@ -251,4 +251,6 @@
   version "12.1.4"
   resolved "https://registry.npmjs.org/@next/env/-/env-12.1.4.tgz"
 
-"@next/
+"@next/eslint-plugin-next@12.1.4":
+  version "12.1.4"
+  resolved "https://registry.npmjs.org/@next/eslint-plugin-next/-/eslint-plugin-next-12
