@@ -245,3 +245,10 @@
     unist-util-position-from-estree "^1.0.0"
     unist-util-stringify-position "^3.0.0"
     unist-util-visit "^4.0.0"
+    vfile "^5.0.0"
+
+"@next/env@12.1.4":
+  version "12.1.4"
+  resolved "https://registry.npmjs.org/@next/env/-/env-12.1.4.tgz"
+
+"@next/
