@@ -259,4 +259,8 @@
 
 "@next/mdx@^12.1.5":
   version "12.1.5"
-  resolved "https://registry.npmjs
+  resolved "https://registry.npmjs.org/@next/mdx/-/mdx-12.1.5.tgz"
+
+"@next/swc-android-arm-eabi@12.1.4":
+  version "12.1.4"
+  resolved "https://registr
