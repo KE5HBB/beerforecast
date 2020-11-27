@@ -263,4 +263,6 @@
 
 "@next/swc-android-arm-eabi@12.1.4":
   version "12.1.4"
-  resolved "https://registr
+  resolved "https://registry.yarnpkg.com/@next/swc-android-arm-eabi/-/swc-android-arm-eabi-12.1.4.tgz#c3dae178b7c15ad627d2e9b8dfb38caecb5c4ac7"
+
+"@next/swc-
