@@ -267,4 +267,8 @@
 
 "@next/swc-android-arm64@12.1.4":
   version "12.1.4"
-  resolved "https://registry.yarnpkg.com/@next/swc-android-arm64/-/swc-android-arm64-12.
+  resolved "https://registry.yarnpkg.com/@next/swc-android-arm64/-/swc-android-arm64-12.1.4.tgz#f320d60639e19ecffa1f9034829f2d95502a9a51"
+
+"@next/swc-darwin-arm64@12.1.4":
+  version "12.1.4"
+  resolved "https:/
