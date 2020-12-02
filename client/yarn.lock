@@ -283,4 +283,8 @@
 
 "@next/swc-linux-arm64-gnu@12.1.4":
   version "12.1.4"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-g
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-12.1.4.tgz#d577190f641c9b4b463719dd6b8953b6ba9be8d9"
+
+"@next/swc-linux-arm64-musl@12.1.4":
+  version "12.1.4"
+  resolved "https:
