@@ -295,4 +295,8 @@
 
 "@next/swc-linux-x64-musl@12.1.4":
   version "12.1.4"
-  resolved "https://registry.npmjs.org/@next/swc-linux-x64-musl/-/swc-lin
+  resolved "https://registry.npmjs.org/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-12.1.4.tgz"
+
+"@next/swc-win32-arm64-msvc@12.1.4":
+  version "12.1.4"
+  resolved "https://registry.yarn
