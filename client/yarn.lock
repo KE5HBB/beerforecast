@@ -293,4 +293,6 @@
   version "12.1.4"
   resolved "https://registry.npmjs.org/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-12.1.4.tgz"
 
-"@ne
+"@next/swc-linux-x64-musl@12.1.4":
+  version "12.1.4"
+  resolved "https://registry.npmjs.org/@next/swc-linux-x64-musl/-/swc-lin
