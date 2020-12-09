@@ -307,4 +307,6 @@
 
 "@next/swc-win32-x64-msvc@12.1.4":
   version "12.1.4"
-  resolved "https://regi
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-12.1.4.tgz#a72ed44c9b1f850986a30fe36c59e01f8a79b5f3"
+
+"@nod
