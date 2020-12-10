@@ -318,4 +318,8 @@
 
 "@nodelib/fs.stat@2.0.5", "@nodelib/fs.stat@^2.0.2":
   version "2.0.5"
- 
+  resolved "https://registry.npmjs.org/@nodelib/fs.stat/-/fs.stat-2.0.5.tgz"
+
+"@nodelib/fs.walk@^1.2.3":
+  version "1.2.8"
+  r
