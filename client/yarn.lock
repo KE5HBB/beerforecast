@@ -329,4 +329,8 @@
 
 "@popperjs/core@^2.9.3":
   version "2.11.5"
-  resolved "https://registry.npmjs.org/@popperjs/core/-/core-
+  resolved "https://registry.npmjs.org/@popperjs/core/-/core-2.11.5.tgz"
+
+"@radix-ui/number@0.1.0":
+  version "0.1.0"
+  resolved "https://registry.npmjs.org/@radix-ui/number/-/number-0.1.0
