@@ -357,4 +357,7 @@
 
 "@radix-ui/react-presence@0.1.2":
   version "0.1.2"
-  resolved "https://registry.npmjs.org/@radix-ui/react-presence/-/reac
+  resolved "https://registry.npmjs.org/@radix-ui/react-presence/-/react-presence-0.1.2.tgz"
+  dependencies:
+    "@babel/runtime" "^7.13.10"
+    "@radix-ui/react-compose-refs" "0.1.0"
