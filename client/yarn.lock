@@ -372,4 +372,9 @@
 
 "@radix-ui/react-scroll-area@^0.1.1":
   version "0.1.4"
-  resolved "https://registry.npmjs.org/@radix-ui/react-scroll-area/-/
+  resolved "https://registry.npmjs.org/@radix-ui/react-scroll-area/-/react-scroll-area-0.1.4.tgz"
+  dependencies:
+    "@babel/runtime" "^7.13.10"
+    "@radix-ui/number" "0.1.0"
+    "@radix-ui/primitive" "0.1.0"
+    "@
