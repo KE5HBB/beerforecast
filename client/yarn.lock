@@ -368,4 +368,8 @@
   resolved "https://registry.npmjs.org/@radix-ui/react-primitive/-/react-primitive-0.1.4.tgz"
   dependencies:
     "@babel/runtime" "^7.13.10"
-    "@radix-ui/react-slot
+    "@radix-ui/react-slot" "0.1.2"
+
+"@radix-ui/react-scroll-area@^0.1.1":
+  version "0.1.4"
+  resolved "https://registry.npmjs.org/@radix-ui/react-scroll-area/-/
