@@ -365,4 +365,7 @@
 
 "@radix-ui/react-primitive@0.1.4":
   version "0.1.4"
-  resolved "https://registry.np
+  resolved "https://registry.npmjs.org/@radix-ui/react-primitive/-/react-primitive-0.1.4.tgz"
+  dependencies:
+    "@babel/runtime" "^7.13.10"
+    "@radix-ui/react-slot
