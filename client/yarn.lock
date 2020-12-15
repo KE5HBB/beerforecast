@@ -394,4 +394,8 @@
 
 "@radix-ui/react-use-callback-ref@0.1.0":
   version "0.1.0"
-  resolved "https://registry.npmjs.org/@radix-ui/react-u
+  resolved "https://registry.npmjs.org/@radix-ui/react-use-callback-ref/-/react-use-callback-ref-0.1.0.tgz"
+  dependencies:
+    "@babel/runtime" "^7.13.10"
+
+"@radix-ui/react-u
