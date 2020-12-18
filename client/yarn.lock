@@ -421,4 +421,9 @@
     "@types/estree" "*"
 
 "@types/debug@^4.0.0":
-  version "
+  version "4.1.7"
+  resolved "https://registry.npmjs.org/@types/debug/-/debug-4.1.7.tgz"
+  dependencies:
+    "@types/ms" "*"
+
+"@type
