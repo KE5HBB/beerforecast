@@ -412,4 +412,8 @@
 
 "@rushstack/eslint-patch@1.0.8":
   version "1.0.8"
-  resolved "https://registry.npmjs
+  resolved "https://registry.npmjs.org/@rushstack/eslint-patch/-/eslint-patch-1.0.8.tgz"
+
+"@types/acorn@^4.0.0":
+  version "4.0.6"
+  resolved "https://reg
