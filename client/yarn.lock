@@ -438,4 +438,8 @@
 
 "@types/estree@^0.0.46":
   version "0.0.46"
-  resolved "https://registry.npmjs.org/@types/estr
+  resolved "https://registry.npmjs.org/@types/estree/-/estree-0.0.46.tgz"
+
+"@types/hast@^2.0.0":
+  version "2.3.4"
+  resolved "https://registry.npmjs.org/@types/hast/-/hast-2.3.4.tg
