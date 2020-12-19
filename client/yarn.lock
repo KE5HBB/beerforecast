@@ -442,4 +442,10 @@
 
 "@types/hast@^2.0.0":
   version "2.3.4"
-  resolved "https://registry.npmjs.org/@types/hast/-/hast-2.3.4.tg
+  resolved "https://registry.npmjs.org/@types/hast/-/hast-2.3.4.tgz"
+  dependencies:
+    "@types/unist" "*"
+
+"@types/json5@^0.0.29":
+  version "0.0.29"
+  resolved "https://registry.npmjs.org
