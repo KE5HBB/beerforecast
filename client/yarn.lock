@@ -430,4 +430,8 @@
   version "0.0.1"
   resolved "https://registry.npmjs.org/@types/estree-jsx/-/estree-jsx-0.0.1.tgz"
   dependencies:
- 
+    "@types/estree" "*"
+
+"@types/estree@*", "@types/estree@^0.0.51":
+  version "0.0.51"
+  resolved "https://registry.npmjs.or
