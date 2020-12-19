@@ -426,4 +426,8 @@
   dependencies:
     "@types/ms" "*"
 
-"@type
+"@types/estree-jsx@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.npmjs.org/@types/estree-jsx/-/estree-jsx-0.0.1.tgz"
+  dependencies:
+ 
