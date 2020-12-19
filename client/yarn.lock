@@ -434,4 +434,8 @@
 
 "@types/estree@*", "@types/estree@^0.0.51":
   version "0.0.51"
-  resolved "https://registry.npmjs.or
+  resolved "https://registry.npmjs.org/@types/estree/-/estree-0.0.51.tgz"
+
+"@types/estree@^0.0.46":
+  version "0.0.46"
+  resolved "https://registry.npmjs.org/@types/estr
