@@ -448,4 +448,5 @@
 
 "@types/json5@^0.0.29":
   version "0.0.29"
-  resolved "https://registry.npmjs.org
+  resolved "https://registry.npmjs.org/@types/json5/-/json5-0.0.29.tgz"
+  integrity "sha1-7ihweulOEdK4J7y+UnC86n8+ce4= sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZP
