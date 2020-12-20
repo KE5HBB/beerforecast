@@ -453,4 +453,10 @@
 
 "@types/mdast@^3.0.0":
   version "3.0.10"
-  resolved "https://registry.npmjs.o
+  resolved "https://registry.npmjs.org/@types/mdast/-/mdast-3.0.10.tgz"
+  dependencies:
+    "@types/unist" "*"
+
+"@types/mdurl@^1.0.0":
+  version "1.0.2"
+  resolved "https://regi
