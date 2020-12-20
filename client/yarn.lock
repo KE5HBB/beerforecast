@@ -470,4 +470,8 @@
   resolved "https://registry.npmjs.org/@types/ms/-/ms-0.7.31.tgz"
 
 "@types/node@17.0.23":
-  v
+  version "17.0.23"
+  resolved "https://registry.npmjs.org/@types/node/-/node-17.0.23.tgz"
+
+"@types/parse-json@^4.0.0":
+  version "4.0.0"
