@@ -459,4 +459,8 @@
 
 "@types/mdurl@^1.0.0":
   version "1.0.2"
-  resolved "https://regi
+  resolved "https://registry.npmjs.org/@types/mdurl/-/mdurl-1.0.2.tgz"
+
+"@types/mdx@^2.0.0":
+  version "2.0.1"
+  resolved "https://registry.npmjs.org/@typ
