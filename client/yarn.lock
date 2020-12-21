@@ -475,3 +475,8 @@
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
+  resolved "https://registry.npmjs.org/@types/parse-json/-/parse-json-4.0.0.tgz"
+
+"@types/prop-types@*":
+  version "15.7.5"
+  resolved
