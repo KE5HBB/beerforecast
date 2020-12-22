@@ -479,4 +479,8 @@
 
 "@types/prop-types@*":
   version "15.7.5"
+  resolved "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.5.tgz"
+
+"@types/react-dom@18.0.0":
+  version "18.0.0"
   resolved
