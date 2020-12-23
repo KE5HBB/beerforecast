@@ -490,4 +490,10 @@
 "@types/react@*", "@types/react@18.0.1":
   version "18.0.1"
   resolved "https://registry.npmjs.org/@types/react/-/react-18.0.1.tgz"
-  dependenc
+  dependencies:
+    "@types/prop-types" "*"
+    "@types/scheduler" "*"
+    csstype "^3.0.2"
+
+"@types/scheduler@*":
+  version "0.16.2"
