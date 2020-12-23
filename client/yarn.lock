@@ -497,3 +497,7 @@
 
 "@types/scheduler@*":
   version "0.16.2"
+  resolved "https://registry.npmjs.org/@types/scheduler/-/scheduler-0.16.2.tgz"
+
+"@types/unist@*", "@types/unist@^2.0.0":
+  version "2
