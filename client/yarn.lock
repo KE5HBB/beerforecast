@@ -504,4 +504,6 @@
   resolved "https://registry.npmjs.org/@types/unist/-/unist-2.0.6.tgz"
 
 "@typescript-eslint/parser@5.10.1":
-  version "5.
+  version "5.10.1"
+  resolved "https://registry.npmjs.org/@typescript-eslint/parser/-/parser-5.10.1.tgz"
+  dependencies
