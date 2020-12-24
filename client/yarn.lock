@@ -500,4 +500,8 @@
   resolved "https://registry.npmjs.org/@types/scheduler/-/scheduler-0.16.2.tgz"
 
 "@types/unist@*", "@types/unist@^2.0.0":
-  version "2
+  version "2.0.6"
+  resolved "https://registry.npmjs.org/@types/unist/-/unist-2.0.6.tgz"
+
+"@typescript-eslint/parser@5.10.1":
+  version "5.
