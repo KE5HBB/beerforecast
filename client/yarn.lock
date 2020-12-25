@@ -509,4 +509,9 @@
   dependencies:
     "@typescript-eslint/scope-manager" "5.10.1"
     "@typescript-eslint/types" "5.10.1"
-    "@typescript-eslint/typescript-estree
+    "@typescript-eslint/typescript-estree" "5.10.1"
+    debug "^4.3.2"
+
+"@typescript-eslint/scope-manager@5.10.1":
+  version "5.10.1"
+  re
