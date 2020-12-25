@@ -514,4 +514,6 @@
 
 "@typescript-eslint/scope-manager@5.10.1":
   version "5.10.1"
-  re
+  resolved "https://registry.npmjs.org/@typescript-eslint/scope-manager/-/scope-manager-5.10.1.tgz"
+  dependencies:
+    "@typescript-eslint
