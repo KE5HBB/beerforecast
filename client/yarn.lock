@@ -524,4 +524,7 @@
   resolved "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.10.1.tgz"
 
 "@typescript-eslint/typescript-estree@5.10.1":
-  version "5.1
+  version "5.10.1"
+  resolved "https://registry.npmjs.org/@typescript-eslint/typescript-estree/-/typescript-estree-5.10.1.tgz"
+  dependencies:
+    "@type
