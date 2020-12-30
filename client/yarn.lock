@@ -552,4 +552,7 @@ acorn@^8.0.0, acorn@^8.7.0:
 
 ajv@^6.10.0, ajv@^6.12.4:
   version "6.12.6"
- 
+  resolved "https://registry.npmjs.org/ajv/-/ajv-6.12.6.tgz"
+  dependencies:
+    fast-deep-equal "^3.1.1"
+    fast-json-stable-stringify "^2.0.0"
