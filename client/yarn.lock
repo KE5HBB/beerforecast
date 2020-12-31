@@ -577,4 +577,8 @@ ansi-styles@^4.1.0:
 
 argparse@^2.0.1:
   version "2.0.1"
-  resolved "http
+  resolved "https://registry.npmjs.org/argparse/-/argparse-2.0.1.tgz"
+
+aria-query@^4.2.2:
+  version "4.2.2"
+  resolved "https://registry.
