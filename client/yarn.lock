@@ -571,4 +571,10 @@ ansi-styles@^3.2.1:
 
 ansi-styles@^4.1.0:
   version "4.3.0"
-  resolved "https://registry.npmjs.org/ansi-s
+  resolved "https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.3.0.tgz"
+  dependencies:
+    color-convert "^2.0.1"
+
+argparse@^2.0.1:
+  version "2.0.1"
+  resolved "http
