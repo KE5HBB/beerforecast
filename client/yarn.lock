@@ -598,4 +598,8 @@ array-includes@^3.1.4:
 
 array-union@^2.1.0:
   version "2.1.0"
-  resolved "https://registry.npmjs.org/array-union/-/array
+  resolved "https://registry.npmjs.org/array-union/-/array-union-2.1.0.tgz"
+
+array.prototype.flat@^1.2.5:
+  version "1.2.5"
+  resolved "https://registry.npmjs.org/array.prototype.flat/-/a
