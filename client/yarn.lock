@@ -619,4 +619,11 @@ array.prototype.flatmap@^1.2.5:
 ast-types-flow@^0.0.7:
   version "0.0.7"
   resolved "https://registry.npmjs.org/ast-types-flow/-/ast-types-flow-0.0.7.tgz"
-  integrity "sha1-9wtzXGvKGlycItmCw+Oef+ujva0= sha512-eBvWn1lvIApYMhzQMsu9ciLfkBY499mFZlNqG+/9WR7PVlroQw0vG30cOQQbaKz3sCEc44TAOu
+  integrity "sha1-9wtzXGvKGlycItmCw+Oef+ujva0= sha512-eBvWn1lvIApYMhzQMsu9ciLfkBY499mFZlNqG+/9WR7PVlroQw0vG30cOQQbaKz3sCEc44TAOu2ykzqXSNnwag=="
+
+astring@^1.6.0:
+  version "1.8.1"
+  resolved "https://registry.npmjs.org/astring/-/astring-1.8.1.tgz"
+
+axe-core@^4.3.5:
+  
