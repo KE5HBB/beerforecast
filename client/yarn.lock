@@ -635,4 +635,8 @@ axios@^0.26.1:
   dependencies:
     follow-redirects "^1.14.8"
 
-axobject-query@^2.
+axobject-query@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.npmjs.org/axobject-query/-/axobject-query-2.2.0.tgz"
+
+babel-plugin-macros@^2
