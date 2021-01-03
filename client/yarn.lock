@@ -626,4 +626,8 @@ astring@^1.6.0:
   resolved "https://registry.npmjs.org/astring/-/astring-1.8.1.tgz"
 
 axe-core@^4.3.5:
-  
+  version "4.4.1"
+  resolved "https://registry.npmjs.org/axe-core/-/axe-core-4.4.1.tgz"
+
+axios@^0.26.1:
+  version "0.26.1
