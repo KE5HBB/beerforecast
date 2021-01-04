@@ -649,4 +649,8 @@ babel-plugin-macros@^2.6.1:
 
 bail@^2.0.0:
   version "2.0.2"
-  reso
+  resolved "https://registry.npmjs.org/bail/-/bail-2.0.2.tgz"
+
+balanced-match@^1.0.0:
+  version "1.0.2"
+  resolved "https:
