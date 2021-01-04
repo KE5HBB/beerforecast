@@ -674,4 +674,10 @@ buffer-from@~0.1.1:
 
 call-bind@^1.0.0, call-bind@^1.0.2:
   version "1.0.2"
-  resolved "https://registry.npmjs.org/call-bind/-/call-bind-1.0
+  resolved "https://registry.npmjs.org/call-bind/-/call-bind-1.0.2.tgz"
+  dependencies:
+    function-bind "^1.1.1"
+    get-intrinsic "^1.0.2"
+
+callsites@^3.0.0:
+  version "3.1.0"
