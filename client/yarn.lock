@@ -681,3 +681,7 @@ call-bind@^1.0.0, call-bind@^1.0.2:
 
 callsites@^3.0.0:
   version "3.1.0"
+  resolved "https://registry.npmjs.org/callsites/-/callsites-3.1.0.tgz"
+
+caniuse-lite@^1.0.30001283:
+  version "1.0.30
