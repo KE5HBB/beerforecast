@@ -684,4 +684,9 @@ callsites@^3.0.0:
   resolved "https://registry.npmjs.org/callsites/-/callsites-3.1.0.tgz"
 
 caniuse-lite@^1.0.30001283:
-  version "1.0.30
+  version "1.0.30001352"
+  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001352.tgz"
+
+ccount@^2.0.0:
+  version "2.0.1"
+  resolv
