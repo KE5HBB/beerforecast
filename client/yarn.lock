@@ -689,4 +689,8 @@ caniuse-lite@^1.0.30001283:
 
 ccount@^2.0.0:
   version "2.0.1"
-  resolv
+  resolved "https://registry.npmjs.org/ccount/-/ccount-2.0.1.tgz"
+
+chalk@^2.0.0:
+  version "2.4.2"
+  resolved "https://regist
