@@ -712,4 +712,8 @@ character-entities-html4@^2.0.0:
 
 character-entities-legacy@^3.0.0:
   version "3.0.0"
-  resolved "https://registry.npmjs
+  resolved "https://registry.npmjs.org/character-entities-legacy/-/character-entities-legacy-3.0.0.tgz"
+
+character-entities@^2.0.0:
+  version "2.0.1"
+  resolved "https:/
