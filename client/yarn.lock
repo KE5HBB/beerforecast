@@ -708,4 +708,8 @@ chalk@^4.0.0:
 
 character-entities-html4@^2.0.0:
   version "2.1.0"
-  resolved "https://registry.npmjs.org/character-entities-html4/-
+  resolved "https://registry.npmjs.org/character-entities-html4/-/character-entities-html4-2.1.0.tgz"
+
+character-entities-legacy@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.npmjs
