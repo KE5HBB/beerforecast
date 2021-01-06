@@ -716,4 +716,8 @@ character-entities-legacy@^3.0.0:
 
 character-entities@^2.0.0:
   version "2.0.1"
-  resolved "https:/
+  resolved "https://registry.npmjs.org/character-entities/-/character-entities-2.0.1.tgz"
+
+character-reference-invalid@^2.0.0:
+  version "2.0.1"
+  resolved "htt
