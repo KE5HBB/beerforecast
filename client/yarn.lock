@@ -728,4 +728,8 @@ clsx@^1.1.1:
 
 color-convert@^1.9.0:
   version "1.9.3"
-  resolved "https://registry.
+  resolved "https://registry.npmjs.org/color-convert/-/color-convert-1.9.3.tgz"
+  dependencies:
+    color-name "1.1.3"
+
+color-convert@^2.0.1
