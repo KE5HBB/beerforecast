@@ -762,4 +762,7 @@ convert-source-map@^1.5.0:
   dependencies:
     safe-buffer "~5.1.1"
 
-core-js-pur
+core-js-pure@^3.20.2:
+  version "3.21.1"
+  resolved "https://registry.npmjs.org/core-js-pure/-/core-js-pure-3.21.1.tgz"
+
