@@ -758,4 +758,8 @@ concat-map@0.0.1:
 
 convert-source-map@^1.5.0:
   version "1.8.0"
-  resolved "https://registry.npmjs
+  resolved "https://registry.npmjs.org/convert-source-map/-/convert-source-map-1.8.0.tgz"
+  dependencies:
+    safe-buffer "~5.1.1"
+
+core-js-pur
