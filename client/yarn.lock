@@ -790,4 +790,8 @@ cross-spawn@^7.0.2:
 
 csstype@^3.0.2, csstype@^3.0.9:
   version "3.0.11"
-  resolved "https://registry.npmjs.org/csstype/-
+  resolved "https://registry.npmjs.org/csstype/-/csstype-3.0.11.tgz"
+
+damerau-levenshtein@^1.0.7:
+  version "1.0.8"
+  resolved "https://registry.npmjs.org/damerau-levenshtein/
