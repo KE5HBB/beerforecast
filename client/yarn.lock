@@ -794,4 +794,8 @@ csstype@^3.0.2, csstype@^3.0.9:
 
 damerau-levenshtein@^1.0.7:
   version "1.0.8"
-  resolved "https://registry.npmjs.org/damerau-levenshtein/
+  resolved "https://registry.npmjs.org/damerau-levenshtein/-/damerau-levenshtein-1.0.8.tgz"
+
+debug@^2.6.9:
+  version "2.6.9"
+  resolved "https://registry.npmjs.org/debug/-/deb
