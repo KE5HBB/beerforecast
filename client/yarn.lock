@@ -804,4 +804,9 @@ debug@^2.6.9:
 
 debug@^3.2.7:
   version "3.2.7"
-  resolved "https://registry.npmjs.org/deb
+  resolved "https://registry.npmjs.org/debug/-/debug-3.2.7.tgz"
+  dependencies:
+    ms "^2.1.1"
+
+debug@^4.0.0, debug@^4.1.1, debug@^4.3.2:
+  version "4.3.
