@@ -815,4 +815,5 @@ debug@^4.0.0, debug@^4.1.1, debug@^4.3.2:
     ms "2.1.2"
 
 decode-named-character-reference@^1.0.0:
-  
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/decode-named-character-reference/-/decode-named-character-reference-1.0
