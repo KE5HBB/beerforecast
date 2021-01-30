@@ -832,3 +832,8 @@ define-properties@^1.1.3:
 
 dequal@^2.0.0:
   version "2.0.2"
+  resolved "https://registry.npmjs.org/dequal/-/dequal-2.0.2.tgz"
+
+diff@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.npmjs.or
