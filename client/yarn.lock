@@ -836,4 +836,8 @@ dequal@^2.0.0:
 
 diff@^5.0.0:
   version "5.0.0"
-  resolved "https://registry.npmjs.or
+  resolved "https://registry.npmjs.org/diff/-/diff-5.0.0.tgz"
+
+dir-glob@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.npmjs.org/dir-glob/-/dir-gl
