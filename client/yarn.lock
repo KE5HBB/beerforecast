@@ -846,4 +846,10 @@ dir-glob@^3.0.1:
 
 doctrine@^2.1.0:
   version "2.1.0"
-  resolved "https://registry.npmjs.or
+  resolved "https://registry.npmjs.org/doctrine/-/doctrine-2.1.0.tgz"
+  dependencies:
+    esutils "^2.0.2"
+
+doctrine@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.np
