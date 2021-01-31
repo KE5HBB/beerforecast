@@ -852,4 +852,10 @@ doctrine@^2.1.0:
 
 doctrine@^3.0.0:
   version "3.0.0"
-  resolved "https://registry.np
+  resolved "https://registry.npmjs.org/doctrine/-/doctrine-3.0.0.tgz"
+  dependencies:
+    esutils "^2.0.2"
+
+dom-helpers@^5.0.1:
+  version "5.2.1"
+  resolved "https://
