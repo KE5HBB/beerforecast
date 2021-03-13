@@ -891,4 +891,5 @@ domutils@^2.8.0:
 
 duplexer2@^0.1.2:
   version "0.1.4"
-  
+  resolved "https://registry.npmjs.org/duplexer2/-/duplexer2-0.1.4.tgz"
+  integrity "sha1-ixLauHjA1p4+eJEFFmKjL8a93ME= sha512-asLFVfW
