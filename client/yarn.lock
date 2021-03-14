@@ -896,4 +896,8 @@ duplexer2@^0.1.2:
   dependencies:
     readable-stream "^2.0.2"
 
-emoji-r
+emoji-regex@^9.2.2:
+  version "9.2.2"
+  resolved "https://registry.npmjs.org/emoji-regex/-/emoji-regex-9.2.2.tgz"
+
+entities@^2.0.0
