@@ -919,3 +919,7 @@ es-abstract@^1.19.0, es-abstract@^1.19.1:
   resolved "https://registry.npmjs.org/es-abstract/-/es-abstract-1.19.2.tgz"
   dependencies:
     call-bind "^1.0.2"
+    es-to-primitive "^1.2.1"
+    function-bind "^1.1.1"
+    get-intrinsic "^1.1.1"
+    get-symbol-descri
