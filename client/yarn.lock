@@ -932,4 +932,8 @@ es-abstract@^1.19.0, es-abstract@^1.19.1:
     is-shared-array-buffer "^1.0.1"
     is-string "^1.0.7"
     is-weakref "^1.0.2"
-    object-inspect 
+    object-inspect "^1.12.0"
+    object-keys "^1.1.1"
+    object.assign "^4.1.2"
+    string.prototype.trimend "^1.0.4"
+    string.prototype.trimstart "^1.0.
