@@ -928,4 +928,8 @@ es-abstract@^1.19.0, es-abstract@^1.19.1:
     internal-slot "^1.0.3"
     is-callable "^1.2.4"
     is-negative-zero "^2.0.2"
-    is-r
+    is-regex "^1.1.4"
+    is-shared-array-buffer "^1.0.1"
+    is-string "^1.0.7"
+    is-weakref "^1.0.2"
+    object-inspect 
