@@ -941,4 +941,8 @@ es-abstract@^1.19.0, es-abstract@^1.19.1:
 
 es-to-primitive@^1.2.1:
   version "1.2.1"
-  resolved "https://registry.npmjs.org/es-to-primi
+  resolved "https://registry.npmjs.org/es-to-primitive/-/es-to-primitive-1.2.1.tgz"
+  dependencies:
+    is-callable "^1.1.4"
+    is-date-object "^1.0.1"
+    is-symbo
