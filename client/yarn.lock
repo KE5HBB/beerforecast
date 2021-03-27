@@ -936,4 +936,9 @@ es-abstract@^1.19.0, es-abstract@^1.19.1:
     object-keys "^1.1.1"
     object.assign "^4.1.2"
     string.prototype.trimend "^1.0.4"
-    string.prototype.trimstart "^1.0.
+    string.prototype.trimstart "^1.0.4"
+    unbox-primitive "^1.0.1"
+
+es-to-primitive@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.npmjs.org/es-to-primi
