@@ -945,4 +945,8 @@ es-to-primitive@^1.2.1:
   dependencies:
     is-callable "^1.1.4"
     is-date-object "^1.0.1"
-    is-symbo
+    is-symbol "^1.0.2"
+
+escape-string-regexp@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.npmjs.org/escape-string-regexp/
