@@ -961,4 +961,7 @@ eslint-config-next@12.1.4:
   resolved "https://registry.npmjs.org/eslint-config-next/-/eslint-config-next-12.1.4.tgz"
   dependencies:
     "@next/eslint-plugin-next" "12.1.4"
-    "@rushsta
+    "@rushstack/eslint-patch" "1.0.8"
+    "@typescript-eslint/parser" "5.10.1"
+    eslint-import-resolver-node "0.3.4"
+    eslint-import
