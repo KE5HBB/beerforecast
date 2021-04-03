@@ -958,4 +958,7 @@ escape-string-regexp@^4.0.0:
 
 eslint-config-next@12.1.4:
   version "12.1.4"
-  resolved "https://registry.npmjs.or
+  resolved "https://registry.npmjs.org/eslint-config-next/-/eslint-config-next-12.1.4.tgz"
+  dependencies:
+    "@next/eslint-plugin-next" "12.1.4"
+    "@rushsta
