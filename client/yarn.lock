@@ -972,4 +972,9 @@ eslint-config-next@12.1.4:
 
 eslint-import-resolver-node@0.3.4:
   version "0.3.4"
-  resolved "https://registry.npmjs.org/eslint-import
+  resolved "https://registry.npmjs.org/eslint-import-resolver-node/-/eslint-import-resolver-node-0.3.4.tgz"
+  dependencies:
+    debug "^2.6.9"
+    resolve "^1.13.1"
+
+eslint-import-res
