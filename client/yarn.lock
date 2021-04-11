@@ -977,4 +977,6 @@ eslint-import-resolver-node@0.3.4:
     debug "^2.6.9"
     resolve "^1.13.1"
 
-eslint-import-res
+eslint-import-resolver-node@^0.3.6:
+  version "0.3.6"
+  resolved "https://registry.npmjs.org/eslint-import-resolver-node/-/eslint-import-resol
