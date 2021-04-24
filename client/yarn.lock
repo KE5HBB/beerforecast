@@ -992,4 +992,8 @@ eslint-import-resolver-typescript@2.4.0:
     glob "^7.1.6"
     is-glob "^4.0.1"
     resolve "^1.17.0"
-    tsconfig-paths 
+    tsconfig-paths "^3.9.0"
+
+eslint-module-utils@^2.7.0:
+  version "2.7.3"
+  resolved "https://registry.npmjs.org/eslint-module-utils/-/eslint-module-utils-
