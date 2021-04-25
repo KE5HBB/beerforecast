@@ -996,4 +996,11 @@ eslint-import-resolver-typescript@2.4.0:
 
 eslint-module-utils@^2.7.0:
   version "2.7.3"
-  resolved "https://registry.npmjs.org/eslint-module-utils/-/eslint-module-utils-
+  resolved "https://registry.npmjs.org/eslint-module-utils/-/eslint-module-utils-2.7.3.tgz"
+  dependencies:
+    debug "^3.2.7"
+    find-up "^2.1.0"
+
+eslint-plugin-import@2.25.2:
+  version "2.25.2"
+  resolved
