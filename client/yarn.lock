@@ -1006,4 +1006,8 @@ eslint-plugin-import@2.25.2:
   resolved "https://registry.npmjs.org/eslint-plugin-import/-/eslint-plugin-import-2.25.2.tgz"
   dependencies:
     array-includes "^3.1.4"
-    array.prototyp
+    array.prototype.flat "^1.2.5"
+    debug "^2.6.9"
+    doctrine "^2.1.0"
+    eslint-import-resolver-node "^0.3.6"
+    eslint-module-
