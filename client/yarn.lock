@@ -1026,4 +1026,8 @@ eslint-plugin-jsx-a11y@6.5.1:
     "@babel/runtime" "^7.16.3"
     aria-query "^4.2.2"
     array-includes "^3.1.4"
-    as
+    ast-types-flow "^0.0.7"
+    axe-core "^4.3.5"
+    axobject-query "^2.2.0"
+    damerau-levenshtein "^1.0.7"
+    emoji-
