@@ -1021,4 +1021,9 @@ eslint-plugin-import@2.25.2:
 
 eslint-plugin-jsx-a11y@6.5.1:
   version "6.5.1"
-  resolved "https://registry.npmjs.org/eslint-plugin-jsx-
+  resolved "https://registry.npmjs.org/eslint-plugin-jsx-a11y/-/eslint-plugin-jsx-a11y-6.5.1.tgz"
+  dependencies:
+    "@babel/runtime" "^7.16.3"
+    aria-query "^4.2.2"
+    array-includes "^3.1.4"
+    as
