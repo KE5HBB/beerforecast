@@ -1070,4 +1070,8 @@ eslint-utils@^3.0.0:
   version "3.0.0"
   resolved "https://registry.npmjs.org/eslint-utils/-/eslint-utils-3.0.0.tgz"
   dependencies:
-    eslint-visit
+    eslint-visitor-keys "^2.0.0"
+
+eslint-visitor-keys@^2.0.0:
+  version "2.1.0"
+  resolved "https://registry.npmjs.org/eslint-visitor-keys/
