@@ -1082,4 +1082,7 @@ eslint-visitor-keys@^3.0.0, eslint-visitor-keys@^3.3.0:
 
 eslint@8.13.0:
   version "8.13.0"
-  resolved "https://r
+  resolved "https://registry.npmjs.org/eslint/-/eslint-8.13.0.tgz"
+  dependencies:
+    "@eslint/eslintrc" "^1.2.1"
+    "@humanwhocodes/config-array" "^0.9.2"
