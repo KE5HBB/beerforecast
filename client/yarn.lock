@@ -1164,4 +1164,6 @@ estree-util-is-identifier-name@^2.0.0:
 
 estree-util-visit@^1.0.0:
   version "1.1.0"
-  resolved
+  resolved "https://registry.npmjs.org/estree-util-visit/-/estree-util-visit-1.1.0.tgz"
+  dependencies:
+    "@types/estree-jsx" "^0.
