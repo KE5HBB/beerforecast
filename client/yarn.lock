@@ -1160,4 +1160,8 @@ estree-util-build-jsx@^2.0.0:
 
 estree-util-is-identifier-name@^2.0.0:
   version "2.0.0"
-  reso
+  resolved "https://registry.npmjs.org/estree-util-is-identifier-name/-/estree-util-is-identifier-name-2.0.0.tgz"
+
+estree-util-visit@^1.0.0:
+  version "1.1.0"
+  resolved
