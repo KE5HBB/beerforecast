@@ -1154,4 +1154,10 @@ estree-util-build-jsx@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/estree-util-build-jsx/-/estree-util-build-jsx-2.0.0.tgz"
   dependencies:
-    "@types/estre
+    "@types/estree-jsx" "^0.0.1"
+    estree-util-is-identifier-name "^2.0.0"
+    estree-walker "^3.0.0"
+
+estree-util-is-identifier-name@^2.0.0:
+  version "2.0.0"
+  reso
