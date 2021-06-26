@@ -1206,3 +1206,9 @@ fast-levenshtein@^2.0.6:
 
 fastq@^1.6.0:
   version "1.13.0"
+  resolved "https://registry.npmjs.org/fastq/-/fastq-1.13.0.tgz"
+  dependencies:
+    reusify "^1.0.4"
+
+file-entry-cache@^6.0.1:
+  vers
