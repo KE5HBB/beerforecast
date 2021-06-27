@@ -1235,4 +1235,11 @@ find-up@^2.1.0:
 
 flat-cache@^3.0.4:
   version "3.0.4"
-  resolved "https://registry.npmjs.org/flat-ca
+  resolved "https://registry.npmjs.org/flat-cache/-/flat-cache-3.0.4.tgz"
+  dependencies:
+    flatted "^3.1.0"
+    rimraf "^3.0.2"
+
+flatted@^3.1.0:
+  version "3.2.5"
+  resolved "https://r
