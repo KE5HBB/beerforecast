@@ -1242,4 +1242,8 @@ flat-cache@^3.0.4:
 
 flatted@^3.1.0:
   version "3.2.5"
-  resolved "https://r
+  resolved "https://registry.npmjs.org/flatted/-/flatted-3.2.5.tgz"
+
+follow-redirects@^1.14.8:
+  version "1.14.9"
+  resolved "https://registry.npmjs.org/f
