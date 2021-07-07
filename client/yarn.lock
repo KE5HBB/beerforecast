@@ -1254,4 +1254,9 @@ fs.realpath@^1.0.0:
   integrity "sha1-FQStJSMVjKpA20onh8sBQRmU6k8= sha512-OO0pH2lK6a0hZnAdau5ItzHPI6pUlvI7jMVnxUQRtw4owF2wk8lOSabtGDCTP4Ggrg2MbGnWO9X8K1t4+fGMDw=="
 
 function-bind@^1.1.1:
-  version "1.
+  version "1.1.1"
+  resolved "https://registry.npmjs.org/function-bind/-/function-bind-1.1.1.tgz"
+
+functional-red-black-tree@^1.0.1:
+  version "1.0.1"
+ 
