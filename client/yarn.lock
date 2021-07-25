@@ -1304,4 +1304,10 @@ globals@^13.6.0, globals@^13.9.0:
   version "13.13.0"
   resolved "https://registry.npmjs.org/globals/-/globals-13.13.0.tgz"
   dependencies:
-    type-fest "^
+    type-fest "^0.20.2"
+
+globby@^11.0.4:
+  version "11.1.0"
+  resolved "https://registry.npmjs.org/globby/-/globby-11.1.0.tgz"
+  dependencies:
+    array-
