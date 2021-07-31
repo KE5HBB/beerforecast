@@ -1328,4 +1328,6 @@ has-flag@^3.0.0:
 
 has-flag@^4.0.0:
   version "4.0.0"
-  resolv
+  resolved "https://registry.npmjs.org/has-flag/-/has-flag-4.0.0.tgz"
+
+has-symbols@^1.0.1, has-symbols@^1.0.2, has-symbols@^1.
