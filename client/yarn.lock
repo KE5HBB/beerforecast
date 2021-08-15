@@ -1344,4 +1344,8 @@ has@^1.0.3:
   version "1.0.3"
   resolved "https://registry.npmjs.org/has/-/has-1.0.3.tgz"
   dependencies:
-  
+    function-bind "^1.1.1"
+
+hast-util-to-estree@^2.0.0:
+  version "2.0.2"
+  resolved "https://registry.npmjs.org/hast-uti
