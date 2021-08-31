@@ -1362,4 +1362,9 @@ hast-util-to-estree@^2.0.0:
     property-information "^6.0.0"
     space-separated-tokens "^2.0.0"
     style-to-object "^0.3.0"
-    unist-util-posi
+    unist-util-position "^4.0.0"
+    zwitch "^2.0.0"
+
+hast-util-whitespace@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.npmjs.org/hast-util-whites
