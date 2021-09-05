@@ -1367,4 +1367,8 @@ hast-util-to-estree@^2.0.0:
 
 hast-util-whitespace@^2.0.0:
   version "2.0.0"
-  resolved "https://registry.npmjs.org/hast-util-whites
+  resolved "https://registry.npmjs.org/hast-util-whitespace/-/hast-util-whitespace-2.0.0.tgz"
+
+hoist-non-react-statics@^3.3.1:
+  version "3.3.2"
+  resolved "https://registry.npmjs.org/hois
