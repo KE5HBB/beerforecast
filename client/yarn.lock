@@ -1377,4 +1377,8 @@ hoist-non-react-statics@^3.3.1:
 
 html-dom-parser@1.1.1:
   version "1.1.1"
-  resolved "https:/
+  resolved "https://registry.npmjs.org/html-dom-parser/-/html-dom-parser-1.1.1.tgz"
+  dependencies:
+    domhandler "4.3.1"
+    htmlparser2 "7.2.0"
+
