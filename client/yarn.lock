@@ -1371,4 +1371,10 @@ hast-util-whitespace@^2.0.0:
 
 hoist-non-react-statics@^3.3.1:
   version "3.3.2"
-  resolved "https://registry.npmjs.org/hois
+  resolved "https://registry.npmjs.org/hoist-non-react-statics/-/hoist-non-react-statics-3.3.2.tgz"
+  dependencies:
+    react-is "^16.7.0"
+
+html-dom-parser@1.1.1:
+  version "1.1.1"
+  resolved "https:/
