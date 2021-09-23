@@ -1399,4 +1399,8 @@ html-tokenize@^2.0.0:
     inherits "~2.0.1"
     minimist "~1.2.5"
     readable-stream "~1.0.27-1"
-    through2 "~0.4.
+    through2 "~0.4.1"
+
+htmlparser2@7.2.0:
+  version "7.2.0"
+  resolved "https://registry.npmjs.org/htmlparser2/-/htmlparser2-7.2.0
