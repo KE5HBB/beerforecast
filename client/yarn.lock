@@ -1408,4 +1408,10 @@ htmlparser2@7.2.0:
     domelementtype "^2.0.1"
     domhandler "^4.2.2"
     domutils "^2.8.0"
-    entiti
+    entities "^3.0.1"
+
+ignore@^5.2.0:
+  version "5.2.0"
+  resolved "https://registry.npmjs.org/ignore/-/ignore-5.2.0.tgz"
+
+import-fresh@
