@@ -1423,4 +1423,5 @@ import-fresh@^3.0.0, import-fresh@^3.1.0, import-fresh@^3.2.1:
 
 imurmurhash@^0.1.4:
   version "0.1.4"
-  re
+  resolved "https://registry.npmjs.org/imurmurhash/-/imurmurhash-0.1.4.tgz"
+  integrity "sha1-khi5srkoojixPcT7a21XbyMUU+o= sha512-JmXMZ6wu
