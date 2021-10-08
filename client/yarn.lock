@@ -1439,4 +1439,8 @@ inherits@2, inherits@~2.0.1, inherits@~2.0.3:
   resolved "https://registry.npmjs.org/inherits/-/inherits-2.0.4.tgz"
 
 inline-style-parser@0.1.1:
-  ver
+  version "0.1.1"
+  resolved "https://registry.npmjs.org/inline-style-parser/-/inline-style-parser-0.1.1.tgz"
+
+internal-slot@^1.0.3:
+  version "1.0.3
