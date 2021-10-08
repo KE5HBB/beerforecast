@@ -1443,4 +1443,7 @@ inline-style-parser@0.1.1:
   resolved "https://registry.npmjs.org/inline-style-parser/-/inline-style-parser-0.1.1.tgz"
 
 internal-slot@^1.0.3:
-  version "1.0.3
+  version "1.0.3"
+  resolved "https://registry.npmjs.org/internal-slot/-/internal-slot-1.0.3.tgz"
+  dependencies:
+    get-intrinsic 
