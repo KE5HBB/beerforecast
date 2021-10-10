@@ -1452,4 +1452,8 @@ internal-slot@^1.0.3:
 
 is-alphabetical@^2.0.0:
   version "2.0.1"
-  resolved "https://registry.np
+  resolved "https://registry.npmjs.org/is-alphabetical/-/is-alphabetical-2.0.1.tgz"
+
+is-alphanumerical@^2.0.0:
+  version "2.0.1"
+  resolved "https://registry.npmjs.org/is-alph
