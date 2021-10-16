@@ -1456,4 +1456,10 @@ is-alphabetical@^2.0.0:
 
 is-alphanumerical@^2.0.0:
   version "2.0.1"
-  resolved "https://registry.npmjs.org/is-alph
+  resolved "https://registry.npmjs.org/is-alphanumerical/-/is-alphanumerical-2.0.1.tgz"
+  dependencies:
+    is-alphabetical "^2.0.0"
+    is-decimal "^2.0.0"
+
+is-arrayish@^0.2.1:
+ 
