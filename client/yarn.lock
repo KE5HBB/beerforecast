@@ -1462,4 +1462,6 @@ is-alphanumerical@^2.0.0:
     is-decimal "^2.0.0"
 
 is-arrayish@^0.2.1:
- 
+  version "0.2.1"
+  resolved "https://registry.npmjs.org/is-arrayish/-/is-arrayish-0.2.1.tgz"
+  integrity "sha1-d8mYQFJ6qOyxqLppe4BkWnqSap0= sha
