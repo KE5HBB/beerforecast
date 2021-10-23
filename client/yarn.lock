@@ -1464,4 +1464,8 @@ is-alphanumerical@^2.0.0:
 is-arrayish@^0.2.1:
   version "0.2.1"
   resolved "https://registry.npmjs.org/is-arrayish/-/is-arrayish-0.2.1.tgz"
-  integrity "sha1-d8mYQFJ6qOyxqLppe4BkWnqSap0= sha
+  integrity "sha1-d8mYQFJ6qOyxqLppe4BkWnqSap0= sha512-zz06S8t0ozoDXMG+ube26zeCTNXcKIPJZJi8hBrF4idCLms4CG9QtK7qBl1boi5ODzFpjswb5JPmHCbMpjaYzg=="
+
+is-bigint@^1.0.1:
+  version "1.0.4"
+  resolve
