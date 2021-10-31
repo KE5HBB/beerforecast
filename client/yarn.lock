@@ -1473,4 +1473,7 @@ is-bigint@^1.0.1:
     has-bigints "^1.0.1"
 
 is-boolean-object@^1.1.0:
-  v
+  version "1.1.2"
+  resolved "https://registry.npmjs.org/is-boolean-object/-/is-boolean-object-1.1.2.tgz"
+  dependencies:
+    call-bind "^1.0.2"
