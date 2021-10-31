@@ -1468,4 +1468,9 @@ is-arrayish@^0.2.1:
 
 is-bigint@^1.0.1:
   version "1.0.4"
-  resolve
+  resolved "https://registry.npmjs.org/is-bigint/-/is-bigint-1.0.4.tgz"
+  dependencies:
+    has-bigints "^1.0.1"
+
+is-boolean-object@^1.1.0:
+  v
