@@ -1481,4 +1481,9 @@ is-boolean-object@^1.1.0:
 
 is-buffer@^2.0.0:
   version "2.0.5"
-  resolved "https://registry.npmjs.org/is-buffer/-/is-buffer
+  resolved "https://registry.npmjs.org/is-buffer/-/is-buffer-2.0.5.tgz"
+
+is-callable@^1.1.4, is-callable@^1.2.4:
+  version "1.2.4"
+  resolved "https://registry.npmjs.org/is-callable/-/is-callable-1.2.4.tgz"
+
