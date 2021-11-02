@@ -1489,4 +1489,10 @@ is-callable@^1.1.4, is-callable@^1.2.4:
 
 is-core-module@^2.2.0, is-core-module@^2.7.0, is-core-module@^2.8.1:
   version "2.8.1"
-  resolved "https://registry.npmjs.org/is-core
+  resolved "https://registry.npmjs.org/is-core-module/-/is-core-module-2.8.1.tgz"
+  dependencies:
+    has "^1.0.3"
+
+is-date-object@^1.0.1:
+  version "1.0.5"
+  resolved "https://re
