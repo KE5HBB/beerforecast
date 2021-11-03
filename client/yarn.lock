@@ -1495,4 +1495,9 @@ is-core-module@^2.2.0, is-core-module@^2.7.0, is-core-module@^2.8.1:
 
 is-date-object@^1.0.1:
   version "1.0.5"
-  resolved "https://re
+  resolved "https://registry.npmjs.org/is-date-object/-/is-date-object-1.0.5.tgz"
+  dependencies:
+    has-tostringtag "^1.0.0"
+
+is-decimal@^2.0.0:
+  v
