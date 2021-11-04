@@ -1506,4 +1506,6 @@ is-decimal@^2.0.0:
 is-extglob@^2.1.1:
   version "2.1.1"
   resolved "https://registry.npmjs.org/is-extglob/-/is-extglob-2.1.1.tgz"
-  integrity "sha1-qIwCU1eR8C7TfHahueqXc8gz+
+  integrity "sha1-qIwCU1eR8C7TfHahueqXc8gz+MI= sha512-SbKbANkN603Vi4jEZv49LeVJMn4yGwsbzZworEoyEiutsN3nJYdbO36zfhGJ6QEDpOZIFkDtnq5JRxmvl3jsoQ=="
+
+is-glob@^4.0.0, is-glob@^
