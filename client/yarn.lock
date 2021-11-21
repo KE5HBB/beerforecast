@@ -1518,4 +1518,8 @@ is-hexadecimal@^2.0.0:
   version "2.0.1"
   resolved "https://registry.npmjs.org/is-hexadecimal/-/is-hexadecimal-2.0.1.tgz"
 
-is-negative-z
+is-negative-zero@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.npmjs.org/is-negative-zero/-/is-negative-zero-2.0.2.tgz"
+
+is-numbe
