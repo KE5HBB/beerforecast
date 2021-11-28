@@ -1534,4 +1534,8 @@ is-number@^7.0.0:
 
 is-plain-obj@^4.0.0:
   version "4.0.0"
-  resolved "https://registry.npmjs.org/is-plain-obj/-/is-
+  resolved "https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-4.0.0.tgz"
+
+is-reference@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.npmjs.org/is-reference/-/is-reference-3.0.0.tg
