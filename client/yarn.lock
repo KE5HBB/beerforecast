@@ -1538,4 +1538,10 @@ is-plain-obj@^4.0.0:
 
 is-reference@^3.0.0:
   version "3.0.0"
-  resolved "https://registry.npmjs.org/is-reference/-/is-reference-3.0.0.tg
+  resolved "https://registry.npmjs.org/is-reference/-/is-reference-3.0.0.tgz"
+  dependencies:
+    "@types/estree" "*"
+
+is-regex@^1.1.4:
+  version "1.1.4"
+  resolved "https://registry.npmjs.org/is-rege
