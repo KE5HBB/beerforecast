@@ -1544,4 +1544,11 @@ is-reference@^3.0.0:
 
 is-regex@^1.1.4:
   version "1.1.4"
-  resolved "https://registry.npmjs.org/is-rege
+  resolved "https://registry.npmjs.org/is-regex/-/is-regex-1.1.4.tgz"
+  dependencies:
+    call-bind "^1.0.2"
+    has-tostringtag "^1.0.0"
+
+is-shared-array-buffer@^1.0.1:
+  version "1.0.2"
+  resol
