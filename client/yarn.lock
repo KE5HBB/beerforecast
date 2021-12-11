@@ -1551,4 +1551,6 @@ is-regex@^1.1.4:
 
 is-shared-array-buffer@^1.0.1:
   version "1.0.2"
-  resol
+  resolved "https://registry.npmjs.org/is-shared-array-buffer/-/is-shared-array-buffer-1.0.2.tgz"
+  dependencies:
+    ca
