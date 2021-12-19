@@ -1563,3 +1563,9 @@ is-string@^1.0.5, is-string@^1.0.7:
 
 is-symbol@^1.0.2, is-symbol@^1.0.3:
   version "1.0.4"
+  resolved "https://registry.npmjs.org/is-symbol/-/is-symbol-1.0.4.tgz"
+  dependencies:
+    has-symbols "^1.0.2"
+
+is-weakref@^1.0.2:
+  vers
