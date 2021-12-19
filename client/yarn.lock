@@ -1557,4 +1557,9 @@ is-shared-array-buffer@^1.0.1:
 
 is-string@^1.0.5, is-string@^1.0.7:
   version "1.0.7"
-  resolved "https://registry.npmjs.org/is-stri
+  resolved "https://registry.npmjs.org/is-string/-/is-string-1.0.7.tgz"
+  dependencies:
+    has-tostringtag "^1.0.0"
+
+is-symbol@^1.0.2, is-symbol@^1.0.3:
+  version "1.0.4"
