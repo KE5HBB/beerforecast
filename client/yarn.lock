@@ -1568,4 +1568,10 @@ is-symbol@^1.0.2, is-symbol@^1.0.3:
     has-symbols "^1.0.2"
 
 is-weakref@^1.0.2:
-  vers
+  version "1.0.2"
+  resolved "https://registry.npmjs.org/is-weakref/-/is-weakref-1.0.2.tgz"
+  dependencies:
+    call-bind "^1.0.2"
+
+isarray@0.0.1:
+  version "0.0.
