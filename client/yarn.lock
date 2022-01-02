@@ -1576,4 +1576,7 @@ is-weakref@^1.0.2:
 isarray@0.0.1:
   version "0.0.1"
   resolved "https://registry.npmjs.org/isarray/-/isarray-0.0.1.tgz"
-  integrity "sha1-ihis/Kmo9Bd+Cav8YDiTmwXR7t
+  integrity "sha1-ihis/Kmo9Bd+Cav8YDiTmwXR7t8= sha512-D2S+3GLxWH+uhrNEcoh/fnmYeP8E8/zHl644d/jdA0g2uyXvy3sb0qxotE+ne0LtccHknQzWwZEzhak7oJ0COQ=="
+
+isarray@~1.0.0:
+  versio
