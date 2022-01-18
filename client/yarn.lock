@@ -1593,4 +1593,9 @@ isexe@^2.0.0:
   resolved "https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz"
 
 js-yaml@^4.1.0:
-  version 
+  version "4.1.0"
+  resolved "https://registry.npmjs.org/js-yaml/-/js-yaml-4.1.0.tgz"
+  dependencies:
+    argparse "^2.0.1"
+
+json-parse-even-bett
