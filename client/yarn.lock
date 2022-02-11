@@ -1626,4 +1626,8 @@ json5@^1.0.1:
 
 kleur@^4.0.3:
   version "4.1.4"
-  resolved "https://registry.npmjs.org/kleur/-/kle
+  resolved "https://registry.npmjs.org/kleur/-/kleur-4.1.4.tgz"
+
+language-subtag-registry@~0.3.2:
+  version "0.3.21"
+  resolved "https://registry.npmjs.org/language-subtag-registry/-/lang
