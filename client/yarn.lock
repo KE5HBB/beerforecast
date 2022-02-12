@@ -1634,4 +1634,5 @@ language-subtag-registry@~0.3.2:
 
 language-tags@^1.0.5:
   version "1.0.5"
-  resolved "https://registry.npm
+  resolved "https://registry.npmjs.org/language-tags/-/language-tags-1.0.5.tgz"
+  integrity "sha1-0yHbxNowuovzAk4ED6XBRmH5GTo= sha512-qJhlO9cGXi6hBGKoxEG/sKZDAHD5Hnu9Hs4W
