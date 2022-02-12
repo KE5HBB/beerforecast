@@ -1630,4 +1630,8 @@ kleur@^4.0.3:
 
 language-subtag-registry@~0.3.2:
   version "0.3.21"
-  resolved "https://registry.npmjs.org/language-subtag-registry/-/lang
+  resolved "https://registry.npmjs.org/language-subtag-registry/-/language-subtag-registry-0.3.21.tgz"
+
+language-tags@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.npm
