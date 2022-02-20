@@ -1664,4 +1664,8 @@ lodash.merge@^4.6.2:
 
 longest-streak@^3.0.0:
   version "3.0.1"
-  resolved "https://registry.npmjs.org/longest-streak/-/longest-s
+  resolved "https://registry.npmjs.org/longest-streak/-/longest-streak-3.0.1.tgz"
+
+loose-envify@^1.0.0, loose-envify@^1.1.0, loose-envify@^1.4.0:
+  version "1.4.0"
+  resolved "https://r
