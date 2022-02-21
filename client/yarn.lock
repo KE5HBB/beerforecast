@@ -1678,3 +1678,6 @@ lru-cache@^7.4.0:
 
 markdown-extensions@^1.0.0:
   version "1.1.1"
+  resolved "https://registry.npmjs.org/markdown-extensions/-/markdown-extensions-1.1.1.tgz"
+
+mdast-util-definitions@^5.0.0:
