@@ -1681,3 +1681,6 @@ markdown-extensions@^1.0.0:
   resolved "https://registry.npmjs.org/markdown-extensions/-/markdown-extensions-1.1.1.tgz"
 
 mdast-util-definitions@^5.0.0:
+  version "5.1.0"
+  resolved "https://registry.npmjs.org/mdast-util-definitions/-/mdast-util-definitions-5.1.0.tgz"
+  dependenci
