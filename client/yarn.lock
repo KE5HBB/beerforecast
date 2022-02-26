@@ -1690,4 +1690,6 @@ mdast-util-definitions@^5.0.0:
 
 mdast-util-from-markdown@^1.0.0:
   version "1.2.0"
-  resolved "https:
+  resolved "https://registry.npmjs.org/mdast-util-from-markdown/-/mdast-util-from-markdown-1.2.0.tgz"
+  dependencies:
+    "@types/mdast" "^
