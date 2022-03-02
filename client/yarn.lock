@@ -1706,4 +1706,7 @@ mdast-util-from-markdown@^1.0.0:
     uvu "^0.5.0"
 
 mdast-util-mdx-expression@^1.0.0:
-  version 
+  version "1.2.0"
+  resolved "https://registry.npmjs.org/mdast-util-mdx-expression/-/mdast-util-mdx-expression-1.2.0.tgz"
+  dependencies:
+    "@types
