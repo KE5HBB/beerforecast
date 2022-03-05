@@ -1709,4 +1709,8 @@ mdast-util-mdx-expression@^1.0.0:
   version "1.2.0"
   resolved "https://registry.npmjs.org/mdast-util-mdx-expression/-/mdast-util-mdx-expression-1.2.0.tgz"
   dependencies:
-    "@types
+    "@types/estree-jsx" "^0.0.1"
+    "@types/hast" "^2.0.0"
+    "@types/mdast" "^3.0.0"
+    mdast-util-from-markdown "^1.0.0"
+    mdast-
