@@ -1717,4 +1717,8 @@ mdast-util-mdx-expression@^1.0.0:
 
 mdast-util-mdx-jsx@^2.0.0:
   version "2.0.1"
-  resolved "https://registry.npmjs.org/mdast-uti
+  resolved "https://registry.npmjs.org/mdast-util-mdx-jsx/-/mdast-util-mdx-jsx-2.0.1.tgz"
+  dependencies:
+    "@types/estree-jsx" "^0.0.1"
+    "@types/hast" "^2.0.0"
+    "@types/mdast
