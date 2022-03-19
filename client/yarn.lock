@@ -1734,3 +1734,9 @@ mdast-util-mdx@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/mdast-util-mdx/-/mdast-util-mdx-2.0.0.tgz"
   dependencies:
+    mdast-util-mdx-expression "^1.0.0"
+    mdast-util-mdx-jsx "^2.0.0"
+    mdast-util-mdxjs-esm "^1.0.0"
+
+mdast-util-mdxjs-esm@^1.0.0:
+  version "1.
