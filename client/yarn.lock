@@ -1741,4 +1741,9 @@ mdast-util-mdx@^2.0.0:
 mdast-util-mdxjs-esm@^1.0.0:
   version "1.2.0"
   resolved "https://registry.npmjs.org/mdast-util-mdxjs-esm/-/mdast-util-mdxjs-esm-1.2.0.tgz"
-  depe
+  dependencies:
+    "@types/estree-jsx" "^0.0.1"
+    "@types/hast" "^2.0.0"
+    "@types/mdast" "^3.0.0"
+    mdast-util-from-markdown "^1.0.0"
+    mdas
