@@ -1750,4 +1750,9 @@ mdast-util-mdxjs-esm@^1.0.0:
 
 mdast-util-to-hast@^12.1.0:
   version "12.1.1"
-  resolved "https://registry.npmjs.org/mdast-util-to-hast/-/mdast-util
+  resolved "https://registry.npmjs.org/mdast-util-to-hast/-/mdast-util-to-hast-12.1.1.tgz"
+  dependencies:
+    "@types/hast" "^2.0.0"
+    "@types/mdast" "^3.0.0"
+    "@types/mdurl" "^1.0.0"
+   
