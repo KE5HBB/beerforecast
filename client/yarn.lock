@@ -1796,4 +1796,7 @@ micromark-core-commonmark@^1.0.0, micromark-core-commonmark@^1.0.1:
     micromark-factory-destination "^1.0.0"
     micromark-factory-label "^1.0.0"
     micromark-factory-space "^1.0.0"
-    micromark-factory-titl
+    micromark-factory-title "^1.0.0"
+    micromark-factory-whitespace "^1.0.0"
+    micromark-util-character "^1.0.0"
+    micromark-util-chunked "^1.
