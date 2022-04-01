@@ -1793,4 +1793,7 @@ micromark-core-commonmark@^1.0.0, micromark-core-commonmark@^1.0.1:
   resolved "https://registry.npmjs.org/micromark-core-commonmark/-/micromark-core-commonmark-1.0.6.tgz"
   dependencies:
     decode-named-character-reference "^1.0.0"
-    micromark-factory-destina
+    micromark-factory-destination "^1.0.0"
+    micromark-factory-label "^1.0.0"
+    micromark-factory-space "^1.0.0"
+    micromark-factory-titl
