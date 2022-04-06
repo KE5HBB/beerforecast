@@ -1813,4 +1813,7 @@ micromark-extension-mdx-expression@^1.0.0:
   version "1.0.3"
   resolved "https://registry.npmjs.org/micromark-extension-mdx-expression/-/micromark-extension-mdx-expression-1.0.3.tgz"
   dependencies:
-    microm
+    micromark-factory-mdx-expression "^1.0.0"
+    micromark-factory-space "^1.0.0"
+    micromark-util-character "^1.0.0"
+    micromark-util-events-to-a
