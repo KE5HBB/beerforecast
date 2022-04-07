@@ -1824,3 +1824,7 @@ micromark-extension-mdx-expression@^1.0.0:
 micromark-extension-mdx-jsx@^1.0.0:
   version "1.0.3"
   resolved "https://registry.npmjs.org/micromark-extension-mdx-jsx/-/micromark-extension-mdx-jsx-1.0.3.tgz"
+  dependencies:
+    "@types/acorn" "^4.0.0"
+    estree-util-is-identifier-name "^2.0.0"
+    micromark-factory-mdx-e
