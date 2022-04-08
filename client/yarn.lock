@@ -1827,4 +1827,7 @@ micromark-extension-mdx-jsx@^1.0.0:
   dependencies:
     "@types/acorn" "^4.0.0"
     estree-util-is-identifier-name "^2.0.0"
-    micromark-factory-mdx-e
+    micromark-factory-mdx-expression "^1.0.0"
+    micromark-factory-space "^1.0.0"
+    micromark-util-character "^1.0.0"
+    micromark-util-symbol "^
