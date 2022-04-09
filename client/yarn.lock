@@ -1838,4 +1838,9 @@ micromark-extension-mdx-jsx@^1.0.0:
 micromark-extension-mdx-md@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/micromark-extension-mdx-md/-/micromark-extension-mdx-md-1.0.0.tgz"
-  dependencie
+  dependencies:
+    micromark-util-types "^1.0.0"
+
+micromark-extension-mdxjs-esm@^1.0.0:
+  version "1.0.2"
+  resolved "https://registry.npmjs.org/mic
