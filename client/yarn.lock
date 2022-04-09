@@ -1830,4 +1830,10 @@ micromark-extension-mdx-jsx@^1.0.0:
     micromark-factory-mdx-expression "^1.0.0"
     micromark-factory-space "^1.0.0"
     micromark-util-character "^1.0.0"
-    micromark-util-symbol "^
+    micromark-util-symbol "^1.0.0"
+    micromark-util-types "^1.0.0"
+    uvu "^0.5.0"
+    vfile-message "^3.0.0"
+
+micromark-extension-mdx-md@^1.0.0:
+  v
