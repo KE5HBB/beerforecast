@@ -1843,4 +1843,7 @@ micromark-extension-mdx-md@^1.0.0:
 
 micromark-extension-mdxjs-esm@^1.0.0:
   version "1.0.2"
-  resolved "https://registry.npmjs.org/mic
+  resolved "https://registry.npmjs.org/micromark-extension-mdxjs-esm/-/micromark-extension-mdxjs-esm-1.0.2.tgz"
+  dependencies:
+    micromark-core-commonmark "^1.0.0"
+    micr
