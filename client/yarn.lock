@@ -1846,4 +1846,8 @@ micromark-extension-mdxjs-esm@^1.0.0:
   resolved "https://registry.npmjs.org/micromark-extension-mdxjs-esm/-/micromark-extension-mdxjs-esm-1.0.2.tgz"
   dependencies:
     micromark-core-commonmark "^1.0.0"
-    micr
+    micromark-util-character "^1.0.0"
+    micromark-util-events-to-acorn "^1.0.0"
+    micromark-util-symbol "^1.0.0"
+    micromark-util-types "^1.0.0"
+  
