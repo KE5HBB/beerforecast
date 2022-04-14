@@ -1857,4 +1857,8 @@ micromark-extension-mdxjs-esm@^1.0.0:
 micromark-extension-mdxjs@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/micromark-extension-mdxjs/-/micromark-extension-mdxjs-1.0.0.tgz"
-  dependenc
+  dependencies:
+    acorn "^8.0.0"
+    acorn-jsx "^5.0.0"
+    micromark-extension-mdx-expression "^1.0.0"
+    micromark-extension-mdx-jsx "^1.0.0"
