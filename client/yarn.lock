@@ -1872,4 +1872,9 @@ micromark-factory-destination@^1.0.0:
   resolved "https://registry.npmjs.org/micromark-factory-destination/-/micromark-factory-destination-1.0.0.tgz"
   dependencies:
     micromark-util-character "^1.0.0"
-    microma
+    micromark-util-symbol "^1.0.0"
+    micromark-util-types "^1.0.0"
+
+micromark-factory-label@^1.0.0:
+  version "1.0.2"
+  resolved "h
