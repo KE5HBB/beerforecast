@@ -1869,4 +1869,7 @@ micromark-extension-mdxjs@^1.0.0:
 
 micromark-factory-destination@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.npmjs.org/m
+  resolved "https://registry.npmjs.org/micromark-factory-destination/-/micromark-factory-destination-1.0.0.tgz"
+  dependencies:
+    micromark-util-character "^1.0.0"
+    microma
