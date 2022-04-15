@@ -1877,4 +1877,6 @@ micromark-factory-destination@^1.0.0:
 
 micromark-factory-label@^1.0.0:
   version "1.0.2"
-  resolved "h
+  resolved "https://registry.npmjs.org/micromark-factory-label/-/micromark-factory-label-1.0.2.tgz"
+  dependencies:
+    micromark-util-chara
