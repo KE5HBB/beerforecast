@@ -1879,4 +1879,9 @@ micromark-factory-label@^1.0.0:
   version "1.0.2"
   resolved "https://registry.npmjs.org/micromark-factory-label/-/micromark-factory-label-1.0.2.tgz"
   dependencies:
-    micromark-util-chara
+    micromark-util-character "^1.0.0"
+    micromark-util-symbol "^1.0.0"
+    micromark-util-types "^1.0.0"
+    uvu "^0.5.0"
+
+micromark-factory-m
