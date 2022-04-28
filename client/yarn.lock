@@ -1886,4 +1886,8 @@ micromark-factory-label@^1.0.0:
 
 micromark-factory-mdx-expression@^1.0.0:
   version "1.0.6"
-  resolved "https://registry.npmjs.org/micromark-factory-mdx-expression/-/micromark-factory-mdx-e
+  resolved "https://registry.npmjs.org/micromark-factory-mdx-expression/-/micromark-factory-mdx-expression-1.0.6.tgz"
+  dependencies:
+    micromark-factory-space "^1.0.0"
+    micromark-util-character "^1.0.0"
+ 
