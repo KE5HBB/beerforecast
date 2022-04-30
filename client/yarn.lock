@@ -1899,4 +1899,6 @@ micromark-factory-mdx-expression@^1.0.0:
 
 micromark-factory-space@^1.0.0:
   version "1.0.0"
-  resolved "https://r
+  resolved "https://registry.npmjs.org/micromark-factory-space/-/micromark-factory-space-1.0.0.tgz"
+  dependencies:
+    micromark-util-character
