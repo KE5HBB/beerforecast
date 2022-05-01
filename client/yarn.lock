@@ -1906,4 +1906,7 @@ micromark-factory-space@^1.0.0:
 
 micromark-factory-title@^1.0.0:
   version "1.0.2"
-  resolved "https://registry.npmjs.org/
+  resolved "https://registry.npmjs.org/micromark-factory-title/-/micromark-factory-title-1.0.2.tgz"
+  dependencies:
+    micromark-factory-space "^1.0.0"
+    micro
