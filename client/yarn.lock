@@ -1909,4 +1909,9 @@ micromark-factory-title@^1.0.0:
   resolved "https://registry.npmjs.org/micromark-factory-title/-/micromark-factory-title-1.0.2.tgz"
   dependencies:
     micromark-factory-space "^1.0.0"
-    micro
+    micromark-util-character "^1.0.0"
+    micromark-util-symbol "^1.0.0"
+    micromark-util-types "^1.0.0"
+    uvu "^0.5.0"
+
+micromark-factory-whites
