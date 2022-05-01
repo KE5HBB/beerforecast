@@ -1901,4 +1901,9 @@ micromark-factory-space@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/micromark-factory-space/-/micromark-factory-space-1.0.0.tgz"
   dependencies:
-    micromark-util-character
+    micromark-util-character "^1.0.0"
+    micromark-util-types "^1.0.0"
+
+micromark-factory-title@^1.0.0:
+  version "1.0.2"
+  resolved "https://registry.npmjs.org/
