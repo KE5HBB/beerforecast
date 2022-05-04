@@ -1925,4 +1925,6 @@ micromark-factory-whitespace@^1.0.0:
 
 micromark-util-character@^1.0.0:
   version "1.1.0"
-  resolv
+  resolved "https://registry.npmjs.org/micromark-util-character/-/micromark-util-character-1.1.0.tgz"
+  dependencies:
+    microma
