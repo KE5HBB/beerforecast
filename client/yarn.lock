@@ -1914,4 +1914,6 @@ micromark-factory-title@^1.0.0:
     micromark-util-types "^1.0.0"
     uvu "^0.5.0"
 
-micromark-factory-whites
+micromark-factory-whitespace@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/micromark-factory-whitespace/-/micromark-factory-wh
