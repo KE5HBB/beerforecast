@@ -1936,4 +1936,6 @@ micromark-util-chunked@^1.0.0:
   dependencies:
     micromark-util-symbol "^1.0.0"
 
-micromark-util-classify-char
+micromark-util-classify-character@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/micromark-util-classify-character/-/micromark-
