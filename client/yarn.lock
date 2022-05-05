@@ -1932,4 +1932,8 @@ micromark-util-character@^1.0.0:
 
 micromark-util-chunked@^1.0.0:
   version "1.0.0"
-  resolved "https://registr
+  resolved "https://registry.npmjs.org/micromark-util-chunked/-/micromark-util-chunked-1.0.0.tgz"
+  dependencies:
+    micromark-util-symbol "^1.0.0"
+
+micromark-util-classify-char
