@@ -1948,4 +1948,9 @@ micromark-util-combine-extensions@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/micromark-util-combine-extensions/-/micromark-util-combine-extensions-1.0.0.tgz"
   dependencies:
-    micromark-util-chun
+    micromark-util-chunked "^1.0.0"
+    micromark-util-types "^1.0.0"
+
+micromark-util-decode-numeric-character-reference@^1.0.0:
+  version "1.0.0"
+  resolved "https:
