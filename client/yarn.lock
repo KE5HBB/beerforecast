@@ -1953,4 +1953,5 @@ micromark-util-combine-extensions@^1.0.0:
 
 micromark-util-decode-numeric-character-reference@^1.0.0:
   version "1.0.0"
-  resolved "https:
+  resolved "https://registry.npmjs.org/micromark-util-decode-numeric-character-reference/-/micromark-util-decode-numeric-character-reference-1.0.0.tgz"
+  dep
