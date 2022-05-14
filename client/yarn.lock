@@ -1946,4 +1946,6 @@ micromark-util-classify-character@^1.0.0:
 
 micromark-util-combine-extensions@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.npmjs.org/m
+  resolved "https://registry.npmjs.org/micromark-util-combine-extensions/-/micromark-util-combine-extensions-1.0.0.tgz"
+  dependencies:
+    micromark-util-chun
