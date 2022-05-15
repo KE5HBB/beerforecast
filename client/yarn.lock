@@ -1959,4 +1959,6 @@ micromark-util-decode-numeric-character-reference@^1.0.0:
 
 micromark-util-decode-string@^1.0.0:
   version "1.0.2"
-  resolved "https://regist
+  resolved "https://registry.npmjs.org/micromark-util-decode-string/-/micromark-util-decode-string-1.0.2.tgz"
+  dependencies:
+    decode-named-character-reference 
