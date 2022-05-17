@@ -1968,4 +1968,8 @@ micromark-util-decode-string@^1.0.0:
 
 micromark-util-encode@^1.0.0:
   version "1.0.1"
-  resolved "https://registry.npmjs.org/micromark-u
+  resolved "https://registry.npmjs.org/micromark-util-encode/-/micromark-util-encode-1.0.1.tgz"
+
+micromark-util-events-to-acorn@^1.0.0:
+  version "1.0.6"
+  resolved "https://registry.npmj
