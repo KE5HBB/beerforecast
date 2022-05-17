@@ -1972,4 +1972,6 @@ micromark-util-encode@^1.0.0:
 
 micromark-util-events-to-acorn@^1.0.0:
   version "1.0.6"
-  resolved "https://registry.npmj
+  resolved "https://registry.npmjs.org/micromark-util-events-to-acorn/-/micromark-util-events-to-acorn-1.0.6.tgz"
+  dependencies:
+    "@types/acorn" "^4
