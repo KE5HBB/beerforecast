@@ -1974,4 +1974,9 @@ micromark-util-events-to-acorn@^1.0.0:
   version "1.0.6"
   resolved "https://registry.npmjs.org/micromark-util-events-to-acorn/-/micromark-util-events-to-acorn-1.0.6.tgz"
   dependencies:
-    "@types/acorn" "^4
+    "@types/acorn" "^4.0.0"
+    "@types/estree" "^0.0.51"
+    estree-util-visit "^1.0.0"
+    micromark-util-types "^1.0.0"
+    uvu "^0.5.0"
+    vfile-location "^4.0
