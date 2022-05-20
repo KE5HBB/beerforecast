@@ -1984,4 +1984,8 @@ micromark-util-events-to-acorn@^1.0.0:
 
 micromark-util-html-tag-name@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.npmjs.org/mic
+  resolved "https://registry.npmjs.org/micromark-util-html-tag-name/-/micromark-util-html-tag-name-1.0.0.tgz"
+
+micromark-util-normalize-identifier@^1.0.0:
+  version "1.0.0"
+  resolved "ht
