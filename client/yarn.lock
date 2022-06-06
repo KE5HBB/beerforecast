@@ -2021,4 +2021,8 @@ micromark-util-symbol@^1.0.0:
 
 micromark-util-types@^1.0.0, micromark-util-types@^1.0.1:
   version "1.0.2"
-  resolved "https:/
+  resolved "https://registry.npmjs.org/micromark-util-types/-/micromark-util-types-1.0.2.tgz"
+
+micromark@^3.0.0:
+  version "3.0.10"
+  resolve
