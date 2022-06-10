@@ -2038,4 +2038,7 @@ micromark@^3.0.0:
     micromark-util-decode-numeric-character-reference "^1.0.0"
     micromark-util-encode "^1.0.0"
     micromark-util-normalize-identifier "^1.0.0"
-    m
+    micromark-util-resolve-all "^1.0.0"
+    micromark-util-sanitize-uri "^1.0.0"
+    micromark-util-subtokenize "^1.0.0"
+    micromark-util
