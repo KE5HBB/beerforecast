@@ -2047,4 +2047,9 @@ micromark@^3.0.0:
 
 micromatch@^4.0.4:
   version "4.0.5"
-  resolved "https://registr
+  resolved "https://registry.npmjs.org/micromatch/-/micromatch-4.0.5.tgz"
+  dependencies:
+    braces "^3.0.2"
+    picomatch "^2.3.1"
+
+minimatch@^3.0.4, minimatch@
