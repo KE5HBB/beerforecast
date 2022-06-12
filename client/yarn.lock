@@ -2060,4 +2060,8 @@ minimatch@^3.0.4, minimatch@^3.1.2:
 
 minimist@^1.2.0, minimist@^1.2.6, minimist@~1.2.5:
   version "1.2.6"
-  resolved "https://
+  resolved "https://registry.npmjs.org/minimist/-/minimist-1.2.6.tgz"
+
+mri@^1.1.0:
+  version "1.2.0"
+  resolved "https://registry.npmjs.org/mri/-/mri-1.2
