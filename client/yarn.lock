@@ -2081,4 +2081,8 @@ multipipe@^1.0.2:
   integrity "sha1-zBPv2DPJzamfIk+GhGG44aP9k50= sha512-6uiC9OvY71vzSGX8lZvSqscE7ft9nPupJ8fMjrCNRAUy2LREUW42UL+V/NTrogr6rFgRydUrCX4ZitfpSNkSCQ=="
   dependencies:
     duplexer2 "^0.1.2"
-    
+    object-assign "^4.1.0"
+
+nanoid@^3.1.30:
+  version "3.3.2"
+  resolved "https://registry.npmjs.org/nanoid/-/nanoid-3.3.2.tgz"
