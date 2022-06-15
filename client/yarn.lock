@@ -2096,4 +2096,8 @@ next@12.1.4:
   version "12.1.4"
   resolved "https://registry.npmjs.org/next/-/next-12.1.4.tgz"
   dependencies:
- 
+    "@next/env" "12.1.4"
+    caniuse-lite "^1.0.30001283"
+    postcss "8.4.5"
+    styled-jsx "5.0.1"
+  optionalDependencies
