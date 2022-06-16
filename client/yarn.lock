@@ -2104,4 +2104,8 @@ next@12.1.4:
     "@next/swc-android-arm-eabi" "12.1.4"
     "@next/swc-android-arm64" "12.1.4"
     "@next/swc-darwin-arm64" "12.1.4"
-    "@next/swc-darwin-x64"
+    "@next/swc-darwin-x64" "12.1.4"
+    "@next/swc-linux-arm-gnueabihf" "12.1.4"
+    "@next/swc-linux-arm64-gnu" "12.1.4"
+    "@next/swc-linux-arm64-musl" "12.1.4"
+    
