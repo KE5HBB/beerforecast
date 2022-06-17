@@ -2108,4 +2108,7 @@ next@12.1.4:
     "@next/swc-linux-arm-gnueabihf" "12.1.4"
     "@next/swc-linux-arm64-gnu" "12.1.4"
     "@next/swc-linux-arm64-musl" "12.1.4"
-    
+    "@next/swc-linux-x64-gnu" "12.1.4"
+    "@next/swc-linux-x64-musl" "12.1.4"
+    "@next/swc-win32-arm64-msvc" "12.1.4"
+    "@next/swc-win32-ia3
