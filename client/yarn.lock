@@ -2130,4 +2130,4 @@ object-keys@^1.0.12, object-keys@^1.1.1:
 object-keys@~0.4.0:
   version "0.4.0"
   resolved "https://registry.npmjs.org/object-keys/-/object-keys-0.4.0.tgz"
-  inte
+  integrity "sha1-KKaq50KN0sOpLz2V8hM13SBOAzY= sha512-ncrLw+X55z7bkl5PnUvHwFK9FcGuFYo9gtjws2XtSzL+aZ8tm830P60WJ0dSmFVaSalWieW5MD7k
