@@ -2210,4 +2210,10 @@ p-try@^1.0.0:
 
 parent-module@^1.0.0:
   version "1.0.1"
-  resolved "https://registry.npmjs.org/parent-mod
+  resolved "https://registry.npmjs.org/parent-module/-/parent-module-1.0.1.tgz"
+  dependencies:
+    callsites "^3.0.0"
+
+parse-entities@^4.0.0:
+  version "4.0.0"
+  resolved "http
