@@ -2219,4 +2219,8 @@ parse-entities@^4.0.0:
   resolved "https://registry.npmjs.org/parse-entities/-/parse-entities-4.0.0.tgz"
   dependencies:
     "@types/unist" "^2.0.0"
-    character-en
+    character-entities "^2.0.0"
+    character-entities-legacy "^3.0.0"
+    character-reference-invalid "^2.0.0"
+    decode-named-character-reference "^1.0.0"
+  
