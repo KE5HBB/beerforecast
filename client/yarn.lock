@@ -2242,4 +2242,6 @@ path-exists@^3.0.0:
   integrity "sha1-zg6+ql94yxiSXqfYENe1mwEP1RU= sha512-bpC7GYwiDYQ4wYLe+FA8lhRjhQCMcQGuSgGGqDkg/QerRWw9CmGRT0iSOVRSZJ29NMLZgIzqaljJ63oaL4NIJQ=="
 
 path-is-absolute@^1.0.0:
-  version "
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/path-is-absolute/-/path-is-absolute-1.0.1.tgz"
+  integrity "
