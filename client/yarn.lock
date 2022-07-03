@@ -2238,4 +2238,5 @@ parse-json@^5.0.0:
 
 path-exists@^3.0.0:
   version "3.0.0"
-  r
+  resolved "https://registry.npmjs.org/path-exists/-/path-exists-3.0.0.tgz"
+  integrity "sha1-zg6+ql94yxiSXqfYENe1mwEP1RU= sha512-bpC7G
