@@ -2252,4 +2252,11 @@ path-key@^3.1.0:
 
 path-parse@^1.0.6, path-parse@^1.0.7:
   version "1.0.7"
-  resolved "https://registry.npmjs.org/path-parse/-/path-parse-1.0
+  resolved "https://registry.npmjs.org/path-parse/-/path-parse-1.0.7.tgz"
+
+path-type@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.npmjs.org/path-type/-/path-type-4.0.0.tgz"
+
+periscopic@^3.0.0:
+  ver
