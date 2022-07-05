@@ -2267,4 +2267,8 @@ periscopic@^3.0.0:
 
 picocolors@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.npmjs.org/p
+  resolved "https://registry.npmjs.org/picocolors/-/picocolors-1.0.0.tgz"
+
+picomatch@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.npmjs.o
