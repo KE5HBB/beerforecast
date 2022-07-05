@@ -2262,4 +2262,9 @@ periscopic@^3.0.0:
   version "3.0.4"
   resolved "https://registry.npmjs.org/periscopic/-/periscopic-3.0.4.tgz"
   dependencies:
-    estree-walker "^3.0.
+    estree-walker "^3.0.0"
+    is-reference "^3.0.0"
+
+picocolors@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/p
