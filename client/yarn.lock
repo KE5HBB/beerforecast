@@ -2259,4 +2259,7 @@ path-type@^4.0.0:
   resolved "https://registry.npmjs.org/path-type/-/path-type-4.0.0.tgz"
 
 periscopic@^3.0.0:
-  ver
+  version "3.0.4"
+  resolved "https://registry.npmjs.org/periscopic/-/periscopic-3.0.4.tgz"
+  dependencies:
+    estree-walker "^3.0.
