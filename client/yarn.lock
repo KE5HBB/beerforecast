@@ -2275,4 +2275,12 @@ picomatch@^2.3.1:
 
 postcss@8.4.5:
   version "8.4.5"
-  resolved "https://registry.npmjs.org/postcss/-/postcss-8.4.5.t
+  resolved "https://registry.npmjs.org/postcss/-/postcss-8.4.5.tgz"
+  dependencies:
+    nanoid "^3.1.30"
+    picocolors "^1.0.0"
+    source-map-js "^1.0.1"
+
+prelude-ls@^1.2.1:
+  version "1.2.1"
+  resolved "https://r
