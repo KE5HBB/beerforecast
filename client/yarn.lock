@@ -2291,4 +2291,7 @@ process-nextick-args@~2.0.0:
 
 prop-types@^15.6.2, prop-types@^15.8.1:
   version "15.8.1"
-  res
+  resolved "https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz"
+  dependencies:
+    loose-envify "^1.4.0"
+    object-assign "^
