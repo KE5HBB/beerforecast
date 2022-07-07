@@ -2294,4 +2294,9 @@ prop-types@^15.6.2, prop-types@^15.8.1:
   resolved "https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz"
   dependencies:
     loose-envify "^1.4.0"
-    object-assign "^
+    object-assign "^4.1.1"
+    react-is "^16.13.1"
+
+property-information@^6.0.0:
+  version "6.1.1"
+  resolved "https://registry.npmjs.org/property-inform
