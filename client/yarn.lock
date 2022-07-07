@@ -2299,4 +2299,8 @@ prop-types@^15.6.2, prop-types@^15.8.1:
 
 property-information@^6.0.0:
   version "6.1.1"
-  resolved "https://registry.npmjs.org/property-inform
+  resolved "https://registry.npmjs.org/property-information/-/property-information-6.1.1.tgz"
+
+punycode@^2.1.0:
+  version "2.1.1"
+  resolved "https://registry.npmjs.org/punycode/-/pu
