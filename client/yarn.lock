@@ -2287,4 +2287,8 @@ prelude-ls@^1.2.1:
 
 process-nextick-args@~2.0.0:
   version "2.0.1"
-  resolved "https://registry.npm
+  resolved "https://registry.npmjs.org/process-nextick-args/-/process-nextick-args-2.0.1.tgz"
+
+prop-types@^15.6.2, prop-types@^15.8.1:
+  version "15.8.1"
+  res
