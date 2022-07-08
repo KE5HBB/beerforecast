@@ -2303,4 +2303,8 @@ property-information@^6.0.0:
 
 punycode@^2.1.0:
   version "2.1.1"
-  resolved "https://registry.npmjs.org/punycode/-/pu
+  resolved "https://registry.npmjs.org/punycode/-/punycode-2.1.1.tgz"
+
+queue-microtask@^1.2.2:
+  version "1.2.3"
+  resolved "https://registry.npmjs.org/queue-microtask/-/queue-
