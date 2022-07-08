@@ -2307,4 +2307,8 @@ punycode@^2.1.0:
 
 queue-microtask@^1.2.2:
   version "1.2.3"
-  resolved "https://registry.npmjs.org/queue-microtask/-/queue-
+  resolved "https://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.3.tgz"
+
+react-dom@18.0.0:
+  version "18.0.0"
+  resolved "https://registry.npmjs.org/react-dom/-/reac
