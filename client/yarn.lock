@@ -2311,4 +2311,11 @@ queue-microtask@^1.2.2:
 
 react-dom@18.0.0:
   version "18.0.0"
-  resolved "https://registry.npmjs.org/react-dom/-/reac
+  resolved "https://registry.npmjs.org/react-dom/-/react-dom-18.0.0.tgz"
+  dependencies:
+    loose-envify "^1.1.0"
+    scheduler "^0.21.0"
+
+react-fast-compare@^3.0.1:
+  version "3.2.0"
+  
