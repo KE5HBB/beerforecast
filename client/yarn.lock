@@ -2326,3 +2326,7 @@ react-is@^16.13.1, react-is@^16.7.0:
 
 react-popper@^2.2.5:
   version "2.2.5"
+  resolved "https://registry.npmjs.org/react-popper/-/react-popper-2.2.5.tgz"
+  dependencies:
+    react-fast-compare "^3.0.1"
+    w
