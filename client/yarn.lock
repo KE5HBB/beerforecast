@@ -2345,4 +2345,11 @@ react-textarea-autosize@^8.3.2:
 
 react-transition-group@^4.4.2:
   version "4.4.2"
-  resolved "https://registry.npmjs.org/react-transition-group/-/react-transition-group-4.4
+  resolved "https://registry.npmjs.org/react-transition-group/-/react-transition-group-4.4.2.tgz"
+  dependencies:
+    "@babel/runtime" "^7.5.5"
+    dom-helpers "^5.0.1"
+    loose-envify "^1.4.0"
+    prop-types "^15.6.2"
+
+react-
