@@ -2341,4 +2341,8 @@ react-textarea-autosize@^8.3.2:
   dependencies:
     "@babel/runtime" "^7.10.2"
     use-composed-ref "^1.0.0"
-    use-latest "
+    use-latest "^1.0.0"
+
+react-transition-group@^4.4.2:
+  version "4.4.2"
+  resolved "https://registry.npmjs.org/react-transition-group/-/react-transition-group-4.4
