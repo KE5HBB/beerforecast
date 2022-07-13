@@ -2352,4 +2352,8 @@ react-transition-group@^4.4.2:
     loose-envify "^1.4.0"
     prop-types "^15.6.2"
 
-react-
+react-tsparticles@^1.43.1:
+  version "1.43.1"
+  resolved "https://registry.npmjs.org/react-tsparticles/-/react-tsparticles-1.43.1.tgz"
+  dependencies:
+    fa
