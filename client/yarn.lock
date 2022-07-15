@@ -2380,4 +2380,5 @@ readable-stream@^2.0.2:
 readable-stream@~1.0.17, readable-stream@~1.0.27-1:
   version "1.0.34"
   resolved "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.34.tgz"
-  integrity "sha1-Elgg40vIQtLy
+  integrity "sha1-Elgg40vIQtLyqq+v5MKRbuMsFXw= sha512-ok1qVCJuRkNmvebYikljxJA/UEsKwLl2nI1OmaqAu4/UE+h0wKCHok4XkL/gvi39OacXvw59RJUOFUkDib2rHg=="
+  dependenci
