@@ -2388,4 +2388,7 @@ readable-stream@~1.0.17, readable-stream@~1.0.27-1:
     string_decoder "~0.10.x"
 
 regenerator-runtime@^0.13.4:
-  versio
+  version "0.13.9"
+  resolved "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.13.9.tgz"
+
+regexp.prototype.
