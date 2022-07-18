@@ -2404,4 +2404,10 @@ regexpp@^3.2.0:
 
 remark-mdx@^2.0.0:
   version "2.1.1"
-  resolved "https://registry.npmjs.org/remark-md
+  resolved "https://registry.npmjs.org/remark-mdx/-/remark-mdx-2.1.1.tgz"
+  dependencies:
+    mdast-util-mdx "^2.0.0"
+    micromark-extension-mdxjs "^1.0.0"
+
+remark-parse@^10.0.0:
+  vers
