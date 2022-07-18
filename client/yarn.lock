@@ -2419,4 +2419,7 @@ remark-parse@^10.0.0:
 
 remark-rehype@^10.0.0:
   version "10.1.0"
-  resolved "https://reg
+  resolved "https://registry.npmjs.org/remark-rehype/-/remark-rehype-10.1.0.tgz"
+  dependencies:
+    "@types/hast" "^2.0.0"
+    "@types/mdast" "^
