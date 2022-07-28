@@ -2463,4 +2463,10 @@ run-parallel@^1.1.9:
 
 sade@^1.7.3:
   version "1.8.1"
-  resolved "https://registry.npmjs.org/sade/-/sade-1.8.
+  resolved "https://registry.npmjs.org/sade/-/sade-1.8.1.tgz"
+  dependencies:
+    mri "^1.1.0"
+
+safe-buffer@~5.1.0, safe-buffer@~5.1.1:
+  version "5.1.2"
+  resolved "https://reg
