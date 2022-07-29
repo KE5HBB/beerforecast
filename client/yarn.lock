@@ -2484,3 +2484,9 @@ semver@^6.3.0:
 semver@^7.3.5:
   version "7.3.6"
   resolved "https://registry.npmjs.org/semver/-/semver-7.3.6.tgz"
+  dependencies:
+    lru-cache "^7.4.0"
+
+shebang-command@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.npmjs.org/shebang-
