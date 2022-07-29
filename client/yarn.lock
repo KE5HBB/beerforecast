@@ -2479,4 +2479,8 @@ scheduler@^0.21.0:
 
 semver@^6.3.0:
   version "6.3.0"
-  resolved "https://registry.npmjs.org/sem
+  resolved "https://registry.npmjs.org/semver/-/semver-6.3.0.tgz"
+
+semver@^7.3.5:
+  version "7.3.6"
+  resolved "https://registry.npmjs.org/semver/-/semver-7.3.6.tgz"
