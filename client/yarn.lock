@@ -2499,4 +2499,8 @@ shebang-regex@^3.0.0:
 
 side-channel@^1.0.4:
   version "1.0.4"
-  resolved "https://registry.npmjs.org/side-chan
+  resolved "https://registry.npmjs.org/side-channel/-/side-channel-1.0.4.tgz"
+  dependencies:
+    call-bind "^1.0.0"
+    get-intrinsic "^1.0.2"
+    object-insp
