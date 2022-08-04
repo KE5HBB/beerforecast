@@ -2522,4 +2522,6 @@ source-map@^0.7.0:
   version "0.7.3"
   resolved "https://registry.npmjs.org/source-map/-/source-map-0.7.3.tgz"
 
-space-separated-t
+space-separated-tokens@^2.0.0:
+  version "2.0.1"
+  resolved "https://registry.npmjs.org/space-separated-tokens/-/space-separated-tokens-2.0.1.t
