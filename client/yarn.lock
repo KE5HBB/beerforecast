@@ -2524,4 +2524,8 @@ source-map@^0.7.0:
 
 space-separated-tokens@^2.0.0:
   version "2.0.1"
-  resolved "https://registry.npmjs.org/space-separated-tokens/-/space-separated-tokens-2.0.1.t
+  resolved "https://registry.npmjs.org/space-separated-tokens/-/space-separated-tokens-2.0.1.tgz"
+
+string.prototype.matchall@^4.0.6:
+  version "4.0.7"
+  resolved "https://registry.npmjs.org/string.prototype.matchall/-/string.prot
