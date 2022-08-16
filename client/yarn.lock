@@ -2556,4 +2556,7 @@ string.prototype.trimstart@^1.0.4:
 string_decoder@~0.10.x:
   version "0.10.31"
   resolved "https://registry.npmjs.org/string_decoder/-/string_decoder-0.10.31.tgz"
-  integrity "sha1-YuIDvEF2bGwoyfyEMB2rHFMQ+pQ= sha512-e
+  integrity "sha1-YuIDvEF2bGwoyfyEMB2rHFMQ+pQ= sha512-ev2QzSzWPYmy9GuqfIVildA4OdcGLeFZQrq5ys6RtiuF+RQQiZWr8TZNyAcuVXyQRYfEO+MsoB/1BuQVhOJuoQ=="
+
+string_decoder@~1.1.1:
+  version "1.1.1"
