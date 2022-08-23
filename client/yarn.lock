@@ -2573,4 +2573,10 @@ stringify-entities@^4.0.0:
 
 strip-ansi@^6.0.1:
   version "6.0.1"
-  resolved "https://reg
+  resolved "https://registry.npmjs.org/strip-ansi/-/strip-ansi-6.0.1.tgz"
+  dependencies:
+    ansi-regex "^5.0.1"
+
+strip-bom@^3.0.0:
+  version "3.0.0"
+  r
