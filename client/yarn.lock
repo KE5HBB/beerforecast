@@ -2579,4 +2579,5 @@ strip-ansi@^6.0.1:
 
 strip-bom@^3.0.0:
   version "3.0.0"
-  r
+  resolved "https://registry.npmjs.org/strip-bom/-/strip-bom-3.0.0.tgz"
+  integrity "sha1-IzTBjpx1n3vdVv3vfprj1YjmjtM= sha512-vavAMRXOgBVNF6nyEEmL3
