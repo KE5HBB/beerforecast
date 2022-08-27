@@ -2594,4 +2594,10 @@ style-to-js@1.1.0:
 
 style-to-object@0.3.0, style-to-object@^0.3.0:
   version "0.3.0"
-  resolved "https://registry.npmjs.org/style-to-object/-
+  resolved "https://registry.npmjs.org/style-to-object/-/style-to-object-0.3.0.tgz"
+  dependencies:
+    inline-style-parser "0.1.1"
+
+styled-jsx@5.0.1:
+  version "5.0.1"
+  resolved "https://
