@@ -2600,4 +2600,8 @@ style-to-object@0.3.0, style-to-object@^0.3.0:
 
 styled-jsx@5.0.1:
   version "5.0.1"
-  resolved "https://
+  resolved "https://registry.npmjs.org/styled-jsx/-/styled-jsx-5.0.1.tgz"
+
+stylis@4.0.13:
+  version "4.0.13"
+  resolved "https://registry.npmjs.org/stylis/-/styli
