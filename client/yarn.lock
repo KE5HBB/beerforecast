@@ -2632,4 +2632,9 @@ through2@~0.4.1:
   resolved "https://registry.npmjs.org/through2/-/through2-0.4.2.tgz"
   integrity "sha1-2/WGYDEVHsg1K7bE22SiKSqEC5s= sha512-45Llu+EwHKtAZYTPPVn3XZHBgakWMN3rokhEv5hu596XP+cNgplMg+Gj+1nmAvj+L0K7+N49zBKx5rah5u0QIQ=="
   dependencies:
-    read
+    readable-stream "~1.0.17"
+    xtend "~2.1.1"
+
+through@^2.3.8:
+  version "2.3.8"
+  resolved "https://registry.npmjs.org/through/-/through-2.3.8.tgz"
