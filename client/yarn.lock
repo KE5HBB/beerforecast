@@ -2647,4 +2647,10 @@ to-fast-properties@^2.0.0:
 
 to-regex-range@^5.0.1:
   version "5.0.1"
-  resolved "https://registry.npmjs.org/to-regex-range/-/to-regex-ra
+  resolved "https://registry.npmjs.org/to-regex-range/-/to-regex-range-5.0.1.tgz"
+  dependencies:
+    is-number "^7.0.0"
+
+trough@^2.0.0:
+  version "2.1.0"
+  resolved "https://registry.npmjs.org/troug
