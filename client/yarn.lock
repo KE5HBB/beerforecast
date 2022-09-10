@@ -2653,4 +2653,8 @@ to-regex-range@^5.0.1:
 
 trough@^2.0.0:
   version "2.1.0"
-  resolved "https://registry.npmjs.org/troug
+  resolved "https://registry.npmjs.org/trough/-/trough-2.1.0.tgz"
+
+tsconfig-paths@^3.11.0, tsconfig-paths@^3.9.0:
+  version "3.14.1"
+  resolved "https://registry.npmjs.o
