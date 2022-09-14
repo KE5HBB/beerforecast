@@ -2661,4 +2661,12 @@ tsconfig-paths@^3.11.0, tsconfig-paths@^3.9.0:
   dependencies:
     "@types/json5" "^0.0.29"
     json5 "^1.0.1"
-    minimist "^1.2.6
+    minimist "^1.2.6"
+    strip-bom "^3.0.0"
+
+tslib@^1.8.1:
+  version "1.14.1"
+  resolved "https://registry.npmjs.org/tslib/-/tslib-1.14.1.tgz"
+
+tsparticles@^1.43.1:
+  version "
