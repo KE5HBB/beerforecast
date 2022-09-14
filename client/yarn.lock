@@ -2674,3 +2674,8 @@ tsparticles@^1.43.1:
 
 tsutils@^3.21.0:
   version "3.21.0"
+  resolved "https://registry.npmjs.org/tsutils/-/tsutils-3.21.0.tgz"
+  dependencies:
+    tslib "^1.8.1"
+
+type-check@^0.
