@@ -2669,4 +2669,8 @@ tslib@^1.8.1:
   resolved "https://registry.npmjs.org/tslib/-/tslib-1.14.1.tgz"
 
 tsparticles@^1.43.1:
-  version "
+  version "1.43.1"
+  resolved "https://registry.npmjs.org/tsparticles/-/tsparticles-1.43.1.tgz"
+
+tsutils@^3.21.0:
+  version "3.21.0"
