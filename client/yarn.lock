@@ -2715,4 +2715,10 @@ unified@^10.0.0:
 
 unist-builder@^3.0.0:
   version "3.0.0"
-  resolved "https://registry.npmjs.org/unist-builder/-/unist-builder-3.0.0.
+  resolved "https://registry.npmjs.org/unist-builder/-/unist-builder-3.0.0.tgz"
+  dependencies:
+    "@types/unist" "^2.0.0"
+
+unist-util-generated@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.n
