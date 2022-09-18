@@ -2711,4 +2711,8 @@ unified@^10.0.0:
     is-buffer "^2.0.0"
     is-plain-obj "^4.0.0"
     trough "^2.0.0"
-    vfile "^5
+    vfile "^5.0.0"
+
+unist-builder@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.npmjs.org/unist-builder/-/unist-builder-3.0.0.
