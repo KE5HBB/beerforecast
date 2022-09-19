@@ -2725,4 +2725,6 @@ unist-util-generated@^2.0.0:
 
 unist-util-is@^5.0.0:
   version "5.1.1"
-  resolved "https://regi
+  resolved "https://registry.npmjs.org/unist-util-is/-/unist-util-is-5.1.1.tgz"
+
+unist-util-position-from-estree@^1.0.0, unist-util-position-from-es
