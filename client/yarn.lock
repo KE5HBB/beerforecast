@@ -2721,4 +2721,8 @@ unist-builder@^3.0.0:
 
 unist-util-generated@^2.0.0:
   version "2.0.0"
-  resolved "https://registry.n
+  resolved "https://registry.npmjs.org/unist-util-generated/-/unist-util-generated-2.0.0.tgz"
+
+unist-util-is@^5.0.0:
+  version "5.1.1"
+  resolved "https://regi
