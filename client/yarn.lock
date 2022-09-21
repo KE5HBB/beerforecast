@@ -2729,4 +2729,10 @@ unist-util-is@^5.0.0:
 
 unist-util-position-from-estree@^1.0.0, unist-util-position-from-estree@^1.1.0:
   version "1.1.1"
-  resolved "https://registry.npmjs.org/unist-util-position-from-estree/-/unist-util-position-fr
+  resolved "https://registry.npmjs.org/unist-util-position-from-estree/-/unist-util-position-from-estree-1.1.1.tgz"
+  dependencies:
+    "@types/unist" "^2.0.0"
+
+unist-util-position@^4.0.0:
+  version "4.0.3"
+  resolved "https://
