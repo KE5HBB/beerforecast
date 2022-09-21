@@ -2735,4 +2735,8 @@ unist-util-position-from-estree@^1.0.0, unist-util-position-from-estree@^1.1.0:
 
 unist-util-position@^4.0.0:
   version "4.0.3"
-  resolved "https://
+  resolved "https://registry.npmjs.org/unist-util-position/-/unist-util-position-4.0.3.tgz"
+  dependencies:
+    "@types/unist" "^2.0.0"
+
+unist-util-remove-position@
