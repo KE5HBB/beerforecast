@@ -2742,4 +2742,10 @@ unist-util-position@^4.0.0:
 unist-util-remove-position@^4.0.0:
   version "4.0.1"
   resolved "https://registry.npmjs.org/unist-util-remove-position/-/unist-util-remove-position-4.0.1.tgz"
-  dependen
+  dependencies:
+    "@types/unist" "^2.0.0"
+    unist-util-visit "^4.0.0"
+
+unist-util-stringify-position@^3.0.0:
+  version "3.0.2"
+  resolv
