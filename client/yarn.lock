@@ -2748,4 +2748,6 @@ unist-util-remove-position@^4.0.0:
 
 unist-util-stringify-position@^3.0.0:
   version "3.0.2"
-  resolv
+  resolved "https://registry.npmjs.org/unist-util-stringify-position/-/unist-util-stringify-position-3.0.2.tgz"
+  dependencies:
+    "@types/unist"
