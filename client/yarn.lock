@@ -2750,4 +2750,8 @@ unist-util-stringify-position@^3.0.0:
   version "3.0.2"
   resolved "https://registry.npmjs.org/unist-util-stringify-position/-/unist-util-stringify-position-3.0.2.tgz"
   dependencies:
-    "@types/unist"
+    "@types/unist" "^2.0.0"
+
+unist-util-visit-parents@^4.0.0:
+  version "4.1.1"
+  resolved "https://registry.npmjs.org/unist-util-visit-parents/-/uni
