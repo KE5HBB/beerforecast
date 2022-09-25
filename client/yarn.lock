@@ -2754,4 +2754,10 @@ unist-util-stringify-position@^3.0.0:
 
 unist-util-visit-parents@^4.0.0:
   version "4.1.1"
-  resolved "https://registry.npmjs.org/unist-util-visit-parents/-/uni
+  resolved "https://registry.npmjs.org/unist-util-visit-parents/-/unist-util-visit-parents-4.1.1.tgz"
+  dependencies:
+    "@types/unist" "^2.0.0"
+    unist-util-is "^5.0.0"
+
+unist-util-visit-parents@^5.0.0:
+  version "5.1.0
