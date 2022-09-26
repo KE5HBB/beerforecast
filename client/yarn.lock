@@ -2760,4 +2760,7 @@ unist-util-visit-parents@^4.0.0:
     unist-util-is "^5.0.0"
 
 unist-util-visit-parents@^5.0.0:
-  version "5.1.0
+  version "5.1.0"
+  resolved "https://registry.npmjs.org/unist-util-visit-parents/-/unist-util-visit-parents-5.1.0.tgz"
+  dependencies:
+    "@types/unist" "^2.
