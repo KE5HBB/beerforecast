@@ -2772,4 +2772,8 @@ unist-util-visit@^3.0.0:
   dependencies:
     "@types/unist" "^2.0.0"
     unist-util-is "^5.0.0"
-    uni
+    unist-util-visit-parents "^4.0.0"
+
+unist-util-visit@^4.0.0:
+  version "4.1.0"
+  resolved "https://registry.npmjs.org/unist
