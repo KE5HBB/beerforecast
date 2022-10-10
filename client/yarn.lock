@@ -2784,4 +2784,10 @@ unist-util-visit@^4.0.0:
 
 uri-js@^4.2.2:
   version "4.4.1"
-  resolved "https://registry.npmjs.org/uri-js/-/uri-js-4.4.1.tg
+  resolved "https://registry.npmjs.org/uri-js/-/uri-js-4.4.1.tgz"
+  dependencies:
+    punycode "^2.1.0"
+
+use-composed-ref@^1.0.0:
+  version "1.2.1"
+  resolved "https://registry.npmjs.org/use-com
