@@ -2798,4 +2798,8 @@ use-isomorphic-layout-effect@^1.0.0:
 
 use-latest@^1.0.0:
   version "1.2.0"
-  resolved "https
+  resolved "https://registry.npmjs.org/use-latest/-/use-latest-1.2.0.tgz"
+  dependencies:
+    use-isomorphic-layout-effect "^1.0.0"
+
+util-deprecate
