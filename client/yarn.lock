@@ -2794,4 +2794,8 @@ use-composed-ref@^1.0.0:
 
 use-isomorphic-layout-effect@^1.0.0:
   version "1.1.2"
-  resolved "https://registry.npmj
+  resolved "https://registry.npmjs.org/use-isomorphic-layout-effect/-/use-isomorphic-layout-effect-1.1.2.tgz"
+
+use-latest@^1.0.0:
+  version "1.2.0"
+  resolved "https
