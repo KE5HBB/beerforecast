@@ -2820,4 +2820,7 @@ v8-compile-cache@^2.0.3:
   version "2.3.0"
   resolved "https://registry.npmjs.org/v8-compile-cache/-/v8-compile-cache-2.3.0.tgz"
 
-vf
+vfile-location@^4.0.0:
+  version "4.0.1"
+  resolved "https://registry.npmjs.org/vfile-location/-/vfile-location-4.0.1.tgz"
+  depend
