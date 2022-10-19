@@ -2814,4 +2814,10 @@ uvu@^0.5.0:
     dequal "^2.0.0"
     diff "^5.0.0"
     kleur "^4.0.3"
-   
+    sade "^1.7.3"
+
+v8-compile-cache@^2.0.3:
+  version "2.3.0"
+  resolved "https://registry.npmjs.org/v8-compile-cache/-/v8-compile-cache-2.3.0.tgz"
+
+vf
