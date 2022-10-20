@@ -2829,4 +2829,7 @@ vfile-location@^4.0.0:
 
 vfile-message@^3.0.0:
   version "3.1.2"
-  resolved "https://
+  resolved "https://registry.npmjs.org/vfile-message/-/vfile-message-3.1.2.tgz"
+  dependencies:
+    "@types/unist" "^2.0.0"
+    unist-util-str
