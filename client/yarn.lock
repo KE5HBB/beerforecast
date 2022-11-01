@@ -2884,3 +2884,7 @@ xtend@~2.1.1:
 yaml@^1.7.2:
   version "1.10.2"
   resolved "https://registry.npmjs.org/yaml/-/yaml-1.10.2.tgz"
+
+zwitch@^2.0.0:
+  version "2.0.2"
+  resolved "https://registry.npmjs.org/zwitch/-/zwitch-2.0.2.tgz"
