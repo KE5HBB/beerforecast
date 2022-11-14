@@ -86,3 +86,49 @@ impl Blockchain {
 
     pub fn find_block_by_hash(&self, hash: String) -> Block {
         for block in self.blocks.clone() {
+            if block.block_hash.trim() == hash.trim() {
+                return block;
+            }
+        }
+
+        Block {
+            id: 0,
+            block_hash: "null".to_string(),
+            previous_hash: "null".to_string(),
+            transaction: Transaction {
+                sender: "null".to_string(),
+                reciever: "null".to_string(),
+                amount: 0.00,
+            },
+        }
+    }
+
+    pub fn calculate_balance(&self) -> f64 {
+        let mut balance: f64 = 0.0;
+        if self.validate_chain() == false {
+            return balance
+        }
+        for block in &self.blocks {
+            if block.transaction.sender == "user".to_string() {
+                balance = balance - block.transaction.amount;
+            } else {
+                balance = balance + block.transaction.amount;
+            }
+        }
+        balance
+    }
+}
+
+impl Block {
+    pub fn new(id: i64, previous_hash: String, transaction: Transaction) -> Block {
+        let mut hasher = Sha256::new();
+        hasher.update(format!("{}-{}-{:?}", id, previous_hash, transaction));
+        let block_hash_str: String = format!("{:x}", hasher.finalize());
+        Block {
+            id: id,
+            block_hash: block_hash_str,
+            previous_hash: previous_hash,
+            transaction: transaction,
+        }
+    }
+}
