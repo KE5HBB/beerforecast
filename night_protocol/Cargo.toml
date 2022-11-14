@@ -1,0 +1,15 @@
+
+[package]
+name = "night_protocol"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rocket = "0.5.0-rc.1"
+sha2 = "0.10.2"
+serde = "1.0.136"
+serde_json = "1.0"
+rand = "0.8.5"
+lock_api = "0.4.7"
