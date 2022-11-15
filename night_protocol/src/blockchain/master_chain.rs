@@ -8,4 +8,8 @@ pub struct Master {
     pub master_blocks: Vec<MasterBlock>,
 }
 
-#[d
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct MasterBlock {
+    pub id: i64,
+    pub previous_hash: String,
+  
