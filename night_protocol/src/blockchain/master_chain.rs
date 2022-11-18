@@ -12,4 +12,11 @@ pub struct Master {
 pub struct MasterBlock {
     pub id: i64,
     pub previous_hash: String,
-  
+    pub block_hash: String,
+    pub block_data: Vec<Block>,
+}
+
+impl Master {
+    pub fn new() -> Self {
+        Self {
+            master_blocks:
