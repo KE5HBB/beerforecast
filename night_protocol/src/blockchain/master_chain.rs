@@ -19,4 +19,8 @@ pub struct MasterBlock {
 impl Master {
     pub fn new() -> Self {
         Self {
-            master_blocks:
+            master_blocks: vec![MasterBlock::new(
+                0,
+                "genesus".to_string(),
+                [Block {
+                    i
