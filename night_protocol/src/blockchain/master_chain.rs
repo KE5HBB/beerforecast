@@ -23,4 +23,7 @@ impl Master {
                 0,
                 "genesus".to_string(),
                 [Block {
-                    i
+                    id: -1,
+                    previous_hash: "abcd".to_string(),
+                    block_hash: "efgh".to_string(),
+        
