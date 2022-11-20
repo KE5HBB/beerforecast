@@ -26,4 +26,6 @@ impl Master {
                     id: -1,
                     previous_hash: "abcd".to_string(),
                     block_hash: "efgh".to_string(),
-        
+                    transaction: Transaction {
+                        sender: "test".to_string(),
+                        reciever: "net".to_string
