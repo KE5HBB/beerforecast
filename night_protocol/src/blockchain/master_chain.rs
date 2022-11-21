@@ -28,4 +28,11 @@ impl Master {
                     block_hash: "efgh".to_string(),
                     transaction: Transaction {
                         sender: "test".to_string(),
-                        reciever: "net".to_string
+                        reciever: "net".to_string(),
+                        amount: 0.0,
+                    },
+                }]
+                .to_vec(),
+            )],
+        }
+   
