@@ -35,4 +35,8 @@ impl Master {
                 .to_vec(),
             )],
         }
-   
+    }
+
+    pub fn add_master_block(&mut self, block_data: Vec<Block>) {
+        if self.validate_chain() == true {
+            let prev_block = &s
