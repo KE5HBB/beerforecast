@@ -41,4 +41,8 @@ impl Master {
         if self.validate_chain() == true {
             let prev_block = &self.master_blocks[&self.master_blocks.len() - 1];
             let new_block =
-                MasterBlock::new(prev_block.id + 1,
+                MasterBlock::new(prev_block.id + 1, prev_block.clone().block_hash, block_data);
+            self.master_blocks.push(new_block);
+        } else {
+            return
+    
