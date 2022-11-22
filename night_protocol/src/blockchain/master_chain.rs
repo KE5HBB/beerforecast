@@ -39,4 +39,6 @@ impl Master {
 
     pub fn add_master_block(&mut self, block_data: Vec<Block>) {
         if self.validate_chain() == true {
-            let prev_block = &s
+            let prev_block = &self.master_blocks[&self.master_blocks.len() - 1];
+            let new_block =
+                MasterBlock::new(prev_block.id + 1,
