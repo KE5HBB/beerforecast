@@ -45,4 +45,8 @@ impl Master {
             self.master_blocks.push(new_block);
         } else {
             return
-    
+        }
+    }
+
+    pub fn validate_master_block(&self, block: &MasterBlock, previous_block: &MasterBlock) -> bool {
+       
