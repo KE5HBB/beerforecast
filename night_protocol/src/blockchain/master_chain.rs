@@ -53,4 +53,11 @@ impl Master {
         hasher.update(format!("{}-{}-{:?}", previous_block.id, previous_block.previous_hash, previous_block.block_data));
         let previous_block_hash: String = format!("{:x}", hasher.finalize());
 
-        if bloc
+        if block.previous_hash.trim() == previous_block_hash.trim() {
+            true
+        } else {
+            false
+        }
+    }
+
+    pub fn v
