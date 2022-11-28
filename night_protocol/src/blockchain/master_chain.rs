@@ -62,4 +62,6 @@ impl Master {
 
     pub fn validate_chain(&self) -> bool {
         for i in 1..self.master_blocks.len() {
-            let block = &self.ma
+            let block = &self.master_blocks[i];
+            let prev_block = &self.master_blocks[i - 1].clone();
+            if self.validate_master_block(block, prev_block
