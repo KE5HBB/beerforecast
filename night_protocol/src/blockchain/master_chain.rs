@@ -60,4 +60,6 @@ impl Master {
         }
     }
 
-    pub fn v
+    pub fn validate_chain(&self) -> bool {
+        for i in 1..self.master_blocks.len() {
+            let block = &self.ma
