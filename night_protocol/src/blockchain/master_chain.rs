@@ -64,4 +64,8 @@ impl Master {
         for i in 1..self.master_blocks.len() {
             let block = &self.master_blocks[i];
             let prev_block = &self.master_blocks[i - 1].clone();
-            if self.validate_master_block(block, prev_block
+            if self.validate_master_block(block, prev_block) == false {
+                println!("Master chain validation failed, aborting.");
+                return false
+            }
+    
