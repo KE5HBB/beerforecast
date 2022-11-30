@@ -68,4 +68,9 @@ impl Master {
                 println!("Master chain validation failed, aborting.");
                 return false
             }
-    
+        }
+        return true
+    }
+
+    pub fn find_blocks_by_master_id(&self, id: i64) -> Vec<Block> {
+        let mut blocks: Vec<Block> = vec![];
