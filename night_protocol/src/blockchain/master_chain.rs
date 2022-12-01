@@ -74,3 +74,6 @@ impl Master {
 
     pub fn find_blocks_by_master_id(&self, id: i64) -> Vec<Block> {
         let mut blocks: Vec<Block> = vec![];
+        for master_blocks in &self.master_blocks {
+            if id == master_blocks.id {
+                for block in 
