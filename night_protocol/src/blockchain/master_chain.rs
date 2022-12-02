@@ -76,4 +76,8 @@ impl Master {
         let mut blocks: Vec<Block> = vec![];
         for master_blocks in &self.master_blocks {
             if id == master_blocks.id {
-                for block in 
+                for block in &master_blocks.block_data {
+                    blocks.push(block.clone())
+                }
+            }
+    
