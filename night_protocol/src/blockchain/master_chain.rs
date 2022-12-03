@@ -80,4 +80,9 @@ impl Master {
                     blocks.push(block.clone())
                 }
             }
-    
+        }
+        blocks
+    }
+
+    pub fn find_block_by_hash(&self, hash: String) -> Block {
+        for master_block in self.master_
