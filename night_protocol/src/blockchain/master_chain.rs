@@ -85,4 +85,6 @@ impl Master {
     }
 
     pub fn find_block_by_hash(&self, hash: String) -> Block {
-        for master_block in self.master_
+        for master_block in self.master_blocks.clone() {
+            for block in master_block.block_data {
+                if hash.trim() == block.block_hash.trim()
