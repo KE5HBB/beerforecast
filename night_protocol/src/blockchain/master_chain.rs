@@ -95,4 +95,6 @@ impl Master {
 
         Block {
             id: 0,
- 
+            block_hash: "null".to_string(),
+            previous_hash: "null".to_string(),
+            transac
