@@ -100,4 +100,10 @@ impl Master {
             transaction: Transaction {
                 sender: "null".to_string(),
                 reciever: "null".to_string(),
-          
+                amount: 0.00,
+            },
+        }
+    }
+
+    pub fn calculate_balance(&self) -> f64 {
+        let mut bal
