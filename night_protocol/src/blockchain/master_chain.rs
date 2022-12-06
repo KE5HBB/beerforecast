@@ -97,4 +97,7 @@ impl Master {
             id: 0,
             block_hash: "null".to_string(),
             previous_hash: "null".to_string(),
-            transac
+            transaction: Transaction {
+                sender: "null".to_string(),
+                reciever: "null".to_string(),
+          
