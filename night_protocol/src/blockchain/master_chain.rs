@@ -106,4 +106,8 @@ impl Master {
     }
 
     pub fn calculate_balance(&self) -> f64 {
-        let mut bal
+        let mut balance: f64 = 0.0;
+        if self.validate_chain() == false {
+            return balance
+        }
+        for master_block in 
