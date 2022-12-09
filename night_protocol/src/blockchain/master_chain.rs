@@ -110,4 +110,6 @@ impl Master {
         if self.validate_chain() == false {
             return balance
         }
-        for master_block in 
+        for master_block in &self.master_blocks {
+            for block in &master_block.block_data {
+                if block.transaction.sender ==
