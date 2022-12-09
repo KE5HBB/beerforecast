@@ -112,4 +112,7 @@ impl Master {
         }
         for master_block in &self.master_blocks {
             for block in &master_block.block_data {
-                if block.transaction.sender ==
+                if block.transaction.sender == "user".to_string() {
+                    balance = balance - block.transaction.amount;
+                } else {
+                    balance = 
