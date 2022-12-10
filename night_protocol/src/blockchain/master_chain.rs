@@ -115,4 +115,13 @@ impl Master {
                 if block.transaction.sender == "user".to_string() {
                     balance = balance - block.transaction.amount;
                 } else {
-                    balance = 
+                    balance = balance + block.transaction.amount;
+                }
+            }
+        }
+
+        balance
+    }
+}
+
+impl Master
