@@ -124,4 +124,6 @@ impl Master {
     }
 }
 
-impl Master
+impl MasterBlock {
+    pub fn new(id: i64, previous_hash: String, block_data: Vec<Block>) -> MasterBlock {
+        let mut hasher = 
