@@ -126,4 +126,6 @@ impl Master {
 
 impl MasterBlock {
     pub fn new(id: i64, previous_hash: String, block_data: Vec<Block>) -> MasterBlock {
-        let mut hasher = 
+        let mut hasher = Sha256::new();
+        hasher.update(format!("{}-{}-{:?}", id, previous_hash, block_data));
+        let block_hash_str: String = 
