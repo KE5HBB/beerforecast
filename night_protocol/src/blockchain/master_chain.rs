@@ -132,4 +132,8 @@ impl MasterBlock {
         MasterBlock {
             id: id,
             previous_hash: previous_hash,
-   
+            block_hash: block_hash_str,
+            block_data: block_data,
+        }
+    }
+}
