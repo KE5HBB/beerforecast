@@ -18,4 +18,8 @@ use rocket::{Request, Response};
 pub struct CORS;
 
 #[rocket::async_trait]
-impl Fairi
+impl Fairing for CORS {
+    fn info(&self) -> Info {
+        Info {
+            name: "Add CORS headers to responses",
+            kind: 
