@@ -27,4 +27,5 @@ impl Fairing for CORS {
     }
 
     async fn on_response<'r>(&self, _request: &'r Request<'_>, response: &mut Response<'r>) {
-    
+        response.set_header(Header::new("Access-Control-Allow-Origin", "*"));
+        response.set_header(Header::n
