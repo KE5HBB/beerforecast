@@ -37,4 +37,10 @@ impl Fairing for CORS {
     }
 }
 
-#
+#[derive(Serialize, Deserialize)]
+struct SharedBlockchain {
+    blocks: Mutex<Blockchain>,
+}
+
+#[derive(Serialize, Deserialize)]
+st
