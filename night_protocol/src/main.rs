@@ -50,4 +50,13 @@ struct SharedMaster {
 #[launch]
 fn rocket() -> _ {
     let mut blocks = Blockchain::new();
-    let mut master_b
+    let mut master_blocks = Master::new();
+
+    let mut i = 0.0f64;
+
+    // Me and da bois test the chain
+
+    loop {
+        i = i + 1.0;
+        if blocks.blocks.len() == 20 {
+ 
