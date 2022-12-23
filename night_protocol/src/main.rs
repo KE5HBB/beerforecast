@@ -43,4 +43,11 @@ struct SharedBlockchain {
 }
 
 #[derive(Serialize, Deserialize)]
-st
+struct SharedMaster {
+    master_blocks: Mutex<Master>,
+}
+
+#[launch]
+fn rocket() -> _ {
+    let mut blocks = Blockchain::new();
+    let mut master_b
