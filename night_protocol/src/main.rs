@@ -59,4 +59,7 @@ fn rocket() -> _ {
     loop {
         i = i + 1.0;
         if blocks.blocks.len() == 20 {
- 
+            master_blocks.add_master_block(blocks.blocks);
+            blocks.blocks = vec![];
+            blocks.genesus();
+    
