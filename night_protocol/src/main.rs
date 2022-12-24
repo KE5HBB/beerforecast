@@ -62,4 +62,8 @@ fn rocket() -> _ {
             master_blocks.add_master_block(blocks.blocks);
             blocks.blocks = vec![];
             blocks.genesus();
-    
+        }
+        blocks.add_block(Transaction {
+            sender: "net".to_string(),
+            reciever: "user".to_string(),
+         
