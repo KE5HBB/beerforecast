@@ -66,4 +66,13 @@ fn rocket() -> _ {
         blocks.add_block(Transaction {
             sender: "net".to_string(),
             reciever: "user".to_string(),
-         
+            amount: 500.0,
+        });
+        if i == 2.0 {
+            break;
+        }
+    }
+
+    // Example Actions
+
+    // prin
