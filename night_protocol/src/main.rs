@@ -75,4 +75,8 @@ fn rocket() -> _ {
 
     // Example Actions
 
-    // prin
+    // print all the blocks
+
+    for block in &blocks.blocks {
+        print!(
+            "id:{}\n hash: {},\n previous_hash: {},\n Transaction: {:?
