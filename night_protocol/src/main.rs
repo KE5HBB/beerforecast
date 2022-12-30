@@ -79,4 +79,9 @@ fn rocket() -> _ {
 
     for block in &blocks.blocks {
         print!(
-            "id:{}\n hash: {},\n previous_hash: {},\n Transaction: {:?
+            "id:{}\n hash: {},\n previous_hash: {},\n Transaction: {:?}\n\n",
+            block.id, block.block_hash, block.previous_hash, block.transaction
+        );
+    }
+
+    // print the
