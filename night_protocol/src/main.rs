@@ -84,4 +84,8 @@ fn rocket() -> _ {
         );
     }
 
-    // print the
+    // print the master blockchain
+
+    for master_block in &master_blocks.master_blocks {
+        print!(
+            "id: {}\n hash: {},\n 
