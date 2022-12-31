@@ -88,4 +88,7 @@ fn rocket() -> _ {
 
     for master_block in &master_blocks.master_blocks {
         print!(
-            "id: {}\n hash: {},\n 
+            "id: {}\n hash: {},\n previous_hash: {}, \n Blocks: {:?}\n\n",
+            master_block.id,
+            master_block.block_hash,
+            master_block
