@@ -96,4 +96,10 @@ fn rocket() -> _ {
         )
     }
 
-    let balance: f64 = blocks.calculate_balance() + master_blocks
+    let balance: f64 = blocks.calculate_balance() + master_blocks.calculate_balance();
+    println!("{}", balance);
+
+    //  server
+    rocket::build()
+        .attach(CORS)
+        .m
