@@ -91,4 +91,9 @@ fn rocket() -> _ {
             "id: {}\n hash: {},\n previous_hash: {}, \n Blocks: {:?}\n\n",
             master_block.id,
             master_block.block_hash,
-            master_block
+            master_block.previous_hash,
+            master_block.block_data
+        )
+    }
+
+    let balance: f64 = blocks.calculate_balance() + master_blocks
