@@ -106,4 +106,7 @@ fn rocket() -> _ {
             blocks: Mutex::new(blocks),
         })
         .manage(SharedMaster {
-            mas
+            master_blocks: Mutex::new(master_blocks),
+        })
+        .mount("/transactions", routes![index, get_transaction])
+        .mou
