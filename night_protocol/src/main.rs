@@ -102,4 +102,8 @@ fn rocket() -> _ {
     //  server
     rocket::build()
         .attach(CORS)
-        .m
+        .manage(SharedBlockchain {
+            blocks: Mutex::new(blocks),
+        })
+        .manage(SharedMaster {
+            mas
