@@ -109,4 +109,9 @@ fn rocket() -> _ {
             master_blocks: Mutex::new(master_blocks),
         })
         .mount("/transactions", routes![index, get_transaction])
-        .mou
+        .mount("/balance", routes![get_balance])
+        .mount("/gamble", routes![gamble])
+        .mount("/countmaster", routes![count_master])
+}
+
+//
