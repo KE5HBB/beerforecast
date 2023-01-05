@@ -114,4 +114,7 @@ fn rocket() -> _ {
         .mount("/countmaster", routes![count_master])
 }
 
-//
+// Count master blocks
+#[get("/")]
+fn count_master(shared_master_blocks: &State<SharedMaster>) -> Json<String> {
+    let master_
