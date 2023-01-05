@@ -117,4 +117,6 @@ fn rocket() -> _ {
 // Count master blocks
 #[get("/")]
 fn count_master(shared_master_blocks: &State<SharedMaster>) -> Json<String> {
-    let master_
+    let master_blocks: &SharedMaster = shared_master_blocks.inner();
+    let data = json!({
+        "master_count" : master_blocks.master_b
