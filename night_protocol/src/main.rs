@@ -119,4 +119,11 @@ fn rocket() -> _ {
 fn count_master(shared_master_blocks: &State<SharedMaster>) -> Json<String> {
     let master_blocks: &SharedMaster = shared_master_blocks.inner();
     let data = json!({
-        "master_count" : master_blocks.master_b
+        "master_count" : master_blocks.master_blocks.lock().unwrap().master_blocks.len()
+    });
+    Json(data.to_string())
+}
+
+// Get all blocks pagination mode
+#[get("/?<page>")]
+fn 
