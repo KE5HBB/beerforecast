@@ -130,4 +130,6 @@ fn index(
     page: i64,
     shared_blocks: &State<SharedBlockchain>,
     shared_master_blocks: &State<SharedMaster>,
-) -> Json<Strin
+) -> Json<String> {
+    let blocks: &SharedBlockchain = shared_blocks.inner();
+    let master_blocks: &SharedMaster = shared_master_blocks.in
