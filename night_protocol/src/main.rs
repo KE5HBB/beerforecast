@@ -126,4 +126,8 @@ fn count_master(shared_master_blocks: &State<SharedMaster>) -> Json<String> {
 
 // Get all blocks pagination mode
 #[get("/?<page>")]
-fn 
+fn index(
+    page: i64,
+    shared_blocks: &State<SharedBlockchain>,
+    shared_master_blocks: &State<SharedMaster>,
+) -> Json<Strin
