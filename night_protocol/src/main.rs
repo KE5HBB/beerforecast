@@ -132,4 +132,8 @@ fn index(
     shared_master_blocks: &State<SharedMaster>,
 ) -> Json<String> {
     let blocks: &SharedBlockchain = shared_blocks.inner();
-    let master_blocks: &SharedMaster = shared_master_blocks.in
+    let master_blocks: &SharedMaster = shared_master_blocks.inner();
+
+    if page == 1 {
+        let serialized = serde_json::to_string(&blocks.blocks.lock().unwrap().blocks).unwrap();
+ 
