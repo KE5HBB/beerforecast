@@ -136,4 +136,9 @@ fn index(
 
     if page == 1 {
         let serialized = serde_json::to_string(&blocks.blocks.lock().unwrap().blocks).unwrap();
- 
+        return Json(serialized);
+    }
+    let serialized = serde_json::to_string(
+        &master_blocks
+            .master_blocks
+         
