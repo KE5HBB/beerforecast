@@ -141,4 +141,12 @@ fn index(
     let serialized = serde_json::to_string(
         &master_blocks
             .master_blocks
-         
+            .lock()
+            .unwrap()
+            .find_blocks_by_master_id(page - 1),
+    )
+    .unwrap();
+    Json(serialized)
+}
+
+// 
