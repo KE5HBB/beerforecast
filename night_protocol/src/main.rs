@@ -149,4 +149,8 @@ fn index(
     Json(serialized)
 }
 
-// 
+// Get Balance
+#[get("/")]
+fn get_balance(
+    shared_blocks: &State<SharedBlockchain>,
+    shared_master_blocks: &State<Sha
