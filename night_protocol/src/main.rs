@@ -153,4 +153,7 @@ fn index(
 #[get("/")]
 fn get_balance(
     shared_blocks: &State<SharedBlockchain>,
-    shared_master_blocks: &State<Sha
+    shared_master_blocks: &State<SharedMaster>,
+) -> Json<String> {
+    let blocks: &SharedBlockchain = shared_blocks.inner();
+    let master_blocks: &SharedMaster
