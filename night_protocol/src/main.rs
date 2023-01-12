@@ -156,4 +156,8 @@ fn get_balance(
     shared_master_blocks: &State<SharedMaster>,
 ) -> Json<String> {
     let blocks: &SharedBlockchain = shared_blocks.inner();
-    let master_blocks: &SharedMaster
+    let master_blocks: &SharedMaster = shared_master_blocks.inner();
+
+    let balance: f64 = blocks.blocks.lock().unwrap().calculate_balance()
+        + master_blocks
+ 
