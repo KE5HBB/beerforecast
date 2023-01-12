@@ -160,4 +160,8 @@ fn get_balance(
 
     let balance: f64 = blocks.blocks.lock().unwrap().calculate_balance()
         + master_blocks
- 
+            .master_blocks
+            .lock()
+            .unwrap()
+            .calculate_balance();
+    let data = json
