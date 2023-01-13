@@ -173,4 +173,9 @@ fn get_balance(
 
 // Find Transaction
 #[get("/<hash>")]
-fn get_transactio
+fn get_transaction(
+    hash: String,
+    shared_master_blocks: &State<SharedMaster>,
+    shared_blocks: &State<SharedBlockchain>,
+) -> Json<String> {
+    let blocks: &Shared
