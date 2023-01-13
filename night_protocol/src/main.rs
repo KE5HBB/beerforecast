@@ -164,4 +164,13 @@ fn get_balance(
             .lock()
             .unwrap()
             .calculate_balance();
-    let data = json
+    let data = json!({
+        "balance": balance.to_string()
+    });
+
+    Json(data.to_string())
+}
+
+// Find Transaction
+#[get("/<hash>")]
+fn get_transactio
