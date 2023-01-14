@@ -178,4 +178,8 @@ fn get_transaction(
     shared_master_blocks: &State<SharedMaster>,
     shared_blocks: &State<SharedBlockchain>,
 ) -> Json<String> {
-    let blocks: &Shared
+    let blocks: &SharedBlockchain = shared_blocks.inner();
+    let master_blocks: &SharedMaster = shared_master_blocks.inner();
+
+    let block: Block;
+    
