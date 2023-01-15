@@ -182,4 +182,9 @@ fn get_transaction(
     let master_blocks: &SharedMaster = shared_master_blocks.inner();
 
     let block: Block;
+    let possible_master_block = master_blocks
+        .master_blocks
+        .lock()
+        .unwrap()
+        .find_block_by_hash(hash.clone());
     
