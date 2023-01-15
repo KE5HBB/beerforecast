@@ -187,4 +187,7 @@ fn get_transaction(
         .lock()
         .unwrap()
         .find_block_by_hash(hash.clone());
+    let possible_block = blocks.blocks.lock().unwrap().find_block_by_hash(hash);
+
+    if possible_block.id != 0 {
     
