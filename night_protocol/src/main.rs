@@ -192,4 +192,7 @@ fn get_transaction(
     if possible_block.id != 0 {
         block = possible_block;
         let serialized = serde_json::to_string(&block).unwrap();
-        return Json(serialized
+        return Json(serialized);
+    } else if possible_master_block.id != 0 {
+        block = possible_master_block;
+        let serialized = serde_json::to_string(&
