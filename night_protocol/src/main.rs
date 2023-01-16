@@ -190,4 +190,6 @@ fn get_transaction(
     let possible_block = blocks.blocks.lock().unwrap().find_block_by_hash(hash);
 
     if possible_block.id != 0 {
-    
+        block = possible_block;
+        let serialized = serde_json::to_string(&block).unwrap();
+        return Json(serialized
