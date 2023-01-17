@@ -201,4 +201,13 @@ fn get_transaction(
         block = possible_block;
     }
 
-    let serialized = se
+    let serialized = serde_json::to_string(&block).unwrap();
+    Json(serialized)
+}
+
+// Gamble func
+
+#[post("/?<amount>")]
+fn gamble(
+    amount: f64,
+ 
