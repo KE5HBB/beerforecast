@@ -210,4 +210,7 @@ fn get_transaction(
 #[post("/?<amount>")]
 fn gamble(
     amount: f64,
- 
+    shared_blocks: &State<SharedBlockchain>,
+    shared_master_blocks: &State<SharedMaster>,
+) -> Json<String> {
+    let blocks: &Sh
