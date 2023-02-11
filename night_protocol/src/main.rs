@@ -213,4 +213,7 @@ fn gamble(
     shared_blocks: &State<SharedBlockchain>,
     shared_master_blocks: &State<SharedMaster>,
 ) -> Json<String> {
-    let blocks: &Sh
+    let blocks: &SharedBlockchain = shared_blocks.inner();
+    let master_blocks: &SharedMaster = shared_master_blocks.inner();
+
+    let balance: f64 = blocks.b
