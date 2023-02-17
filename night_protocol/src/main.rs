@@ -216,4 +216,9 @@ fn gamble(
     let blocks: &SharedBlockchain = shared_blocks.inner();
     let master_blocks: &SharedMaster = shared_master_blocks.inner();
 
-    let balance: f64 = blocks.b
+    let balance: f64 = blocks.blocks.lock().unwrap().calculate_balance()
+        + master_blocks
+            .master_blocks
+            .lock()
+            .unwrap()
+      
