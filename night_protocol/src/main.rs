@@ -221,4 +221,8 @@ fn gamble(
             .master_blocks
             .lock()
             .unwrap()
-      
+            .calculate_balance();
+    if amount > balance {
+        let data = json!({
+            "error": "Balance Error"
+        });
