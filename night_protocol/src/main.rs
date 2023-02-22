@@ -239,4 +239,9 @@ fn gamble(
         println!("{}", num);
         if num == 1 {
             win = true;
-        } els
+        } else {
+            win = false;
+        }
+
+        if blocks.blocks.lock().unwrap().blocks.len() == 100 {
+            master_blocks
