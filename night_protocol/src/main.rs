@@ -226,3 +226,8 @@ fn gamble(
         let data = json!({
             "error": "Balance Error"
         });
+        Json(data.to_string())
+    } else if amount < 0.0001 {
+        let data = json!({
+            "error": "Invalid Amount"
+        })
