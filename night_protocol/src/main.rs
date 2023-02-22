@@ -230,4 +230,9 @@ fn gamble(
     } else if amount < 0.0001 {
         let data = json!({
             "error": "Invalid Amount"
-        })
+        });
+        Json(data.to_string())
+    } else {
+        let win: bool;
+        let mut rng = rand::thread_rng();
+        let num: i32
