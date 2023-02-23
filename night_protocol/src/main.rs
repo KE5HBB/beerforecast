@@ -245,3 +245,7 @@ fn gamble(
 
         if blocks.blocks.lock().unwrap().blocks.len() == 100 {
             master_blocks
+                .master_blocks
+                .lock()
+                .unwrap()
+                .add_master_block(blocks.blo
