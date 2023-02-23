@@ -250,4 +250,8 @@ fn gamble(
                 .unwrap()
                 .add_master_block(blocks.blocks.lock().unwrap().blocks.clone());
             blocks.blocks.lock().unwrap().blocks = vec![];
-            blocks.blocks.
+            blocks.blocks.lock().unwrap().genesus();
+        }
+
+        if win == true {
+            blocks.blocks.lock().unwrap().add_block(Transactio
