@@ -248,4 +248,6 @@ fn gamble(
                 .master_blocks
                 .lock()
                 .unwrap()
-                .add_master_block(blocks.blo
+                .add_master_block(blocks.blocks.lock().unwrap().blocks.clone());
+            blocks.blocks.lock().unwrap().blocks = vec![];
+            blocks.blocks.
