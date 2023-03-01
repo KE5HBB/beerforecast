@@ -254,4 +254,7 @@ fn gamble(
         }
 
         if win == true {
-            blocks.blocks.lock().unwrap().add_block(Transactio
+            blocks.blocks.lock().unwrap().add_block(Transaction {
+                reciever: "user".to_string(),
+                sender: "net".to_string(),
+                amount: amo
