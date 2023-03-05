@@ -257,4 +257,8 @@ fn gamble(
             blocks.blocks.lock().unwrap().add_block(Transaction {
                 reciever: "user".to_string(),
                 sender: "net".to_string(),
-                amount: amo
+                amount: amount * 1.5,
+            });
+            let data = json!({
+                "win": "true",
+                "amount": amount 
