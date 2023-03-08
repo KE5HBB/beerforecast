@@ -261,4 +261,9 @@ fn gamble(
             });
             let data = json!({
                 "win": "true",
-                "amount": amount 
+                "amount": amount * 1.5,
+                "newBalance": amount * 1.5 + balance
+            });
+            Json(data.to_string())
+        } else {
+      
