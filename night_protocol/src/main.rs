@@ -266,4 +266,6 @@ fn gamble(
             });
             Json(data.to_string())
         } else {
-      
+            blocks.blocks.lock().unwrap().add_block(Transaction {
+                reciever: "net".to_string(),
+       
