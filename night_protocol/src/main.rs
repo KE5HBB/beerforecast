@@ -268,4 +268,7 @@ fn gamble(
         } else {
             blocks.blocks.lock().unwrap().add_block(Transaction {
                 reciever: "net".to_string(),
-       
+                sender: "user".to_string(),
+                amount: amount,
+            });
+            let data 
