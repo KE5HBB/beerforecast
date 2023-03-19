@@ -271,4 +271,9 @@ fn gamble(
                 sender: "user".to_string(),
                 amount: amount,
             });
-            let data 
+            let data = json!({
+                "win": "false",
+                "amount": amount,
+                "newBalance": balance - amount
+            });
+     
