@@ -16,4 +16,13 @@ GET http://localhost:8000/balance
 ###
 
 POST http://localhost:8000/gamble?amount=200
-content-typ
+content-type: application/json
+
+# res 1: {
+#     win: true,
+#     amount: 500,
+#     new_balance: 2500
+# }
+
+# res 2: {
+#     win: false,
