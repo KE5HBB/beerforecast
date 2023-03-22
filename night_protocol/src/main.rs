@@ -276,4 +276,7 @@ fn gamble(
                 "amount": amount,
                 "newBalance": balance - amount
             });
-     
+            Json(data.to_string())
+        }
+    }
+}
