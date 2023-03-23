@@ -1,0 +1,5 @@
+{
+    "night": {
+        "folder": "night_protocol",
+        "run": "cargo run",
+       

@@ -26,3 +26,6 @@ content-type: application/json
 
 # res 2: {
 #     win: false,
+#     amount: 100,
+#     new_balance: 1900
+# }
